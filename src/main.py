@@ -1,15 +1,17 @@
 import nltk
 import corenlp
+import spacy
+import os
 from spacy.lang.en import English
 from spacy.pipeline import DependencyParser
 from spacy.tokenizer import Tokenizer
-import spacy
-import os
+from spacy_wordnet.wordnet_annotator import WordnetAnnotator
 from nltk.corpus import wordnet as wn
 
 
-def tokenizer(directory):
-    tokens = dict()
+
+def sentences_from_corpus(directory):
+    sentences_in_corpus = []
     directoryFiles = os.listdir(directory)
     for file in directoryFiles:
         fileRead = open(directory + "/" + file, "r")
@@ -17,24 +19,45 @@ def tokenizer(directory):
         sentences = fileText.split("\n")
         for each_sentence in sentences:
             if len(each_sentence) != 0:
-                # words in each sentence
-                nlp = spacy.load('en_core_web_sm')
-                doc = nlp(each_sentence)
-                for parsed_token in doc:
-                    if parsed_token.text in tokens:
-                        x = tokens.get(parsed_token)
-                        x.append(parsed_token.pos_)
-                    else:
-                        tokens[parsed_token.text] = parsed_token.pos_
-                        # print(token.text, token.pos_, token.dep_)
+                sentences_in_corpus.append(each_sentence)
+    return sentences_in_corpus
+
+
+def tokenize(sentences_in_corpus):
+    nlp = spacy.load('en_core_web_sm')
+    for each_sentence in sentences_in_corpus:
+        doc = nlp(each_sentence)
+        for token in doc:
+            print(token.text, token.pos_, token.dep_, token.lemma_, token.tag_)
+        for ent in doc.ents:
+            print(ent.text, ent.label_)
+
+
+def features_from_wordnet(sentences_in_corpus):
+    nlp = spacy.load('en_core_web_sm')
+    nlp.add_pipe(WordnetAnnotator(nlp.lang), after='tagger')
+    for each_sentence in sentences_in_corpus:
+        doc = nlp(each_sentence)
+        for token in doc:
+            print(token._.wordnet.synsets())
+
+    # wordnet object link spacy token with nltk wordnet interface by giving acces to
+    # synsets and lemmas
+    token._.wordnet.synsets()
+    token._.wordnet.lemmas()
+
+    # And automatically tags with wordnet domains
+    token._.wordnet.wordnet_domains()
 
 
 def main():
-    directory = "WikipediaArticles"
-
+    directory = "..\\WikipediaArticles"
+    # get all sentences from corpus
+    sentences_in_corpus = sentences_from_corpus(directory)
     # tokenize, lemmatize and dependency parsing
-    tokenizer(directory)
-
+    tokenize(sentences_in_corpus)
+    # get all features using wordnet
+    # features_from_wordnet(sentences_in_corpus)
     # read each file
     # parser = nlp.create_pipe("parser")
     # nlp.add_pipe(parser)
