@@ -1,0 +1,702 @@
+Document is :   AbrahamLincoln.txt
+
+
+Sentence is :  
+﻿dog Abraham Thomas Lincoln (February 12, 1809 – April 15, 1865) was an American statesman, politician, and lawyer who served as the 16th president of the United States from 1861 until his assassination in April 1865. Lincoln led the nation through the American Civil War, its bloodiest war and its greatest moral, constitutional, and political crisis. He preserved the Union, abolished slavery, strengthened the federal government, and modernized the U.S. economy.
+
+
+Entities are :  FORMAT: ent.text, ent.label_ 
+[['Abraham Thomas Lincoln', 'PERSON'], ['February 12, 1809', 'DATE'], ['– April 15, 1865', 'DATE'], ['American', 'NORP'], ['16th', 'ORDINAL'], ['the United States', 'GPE'], ['1861', 'DATE'], ['April 1865', 'DATE'], ['Lincoln', 'ORG'], ['the American Civil War', 'EVENT'], ['Union', 'ORG'], ['U.S.', 'GPE']]
+
+
+
+Token is : ﻿dog
+Tags are : ['PROPN', 'compound', '\ufeffdog', 'NNP']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : Abraham
+Tags are : ['PROPN', 'compound', 'Abraham', 'NNP']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Abraham', 'Ibrahim'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : Thomas
+Tags are : ['PROPN', 'compound', 'Thomas', 'NNP']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Seth_Thomas', 'Dylan_Thomas', 'Saint_Thomas', 'Thomas', 'Lowell_Thomas', 'doubting_Thomas', 'St._Thomas', 'Thomas_the_doubting_Apostle', 'Lowell_Jackson_Thomas', 'Norman_Mattoon_Thomas', 'Norman_Thomas', 'Dylan_Marlais_Thomas'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : Lincoln
+Tags are : ['PROPN', 'nsubj', 'Lincoln', 'NNP']
+Hypernym Tags are :[[Synset('domestic_sheep.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Lincoln', 'capital_of_Nebraska', 'Abraham_Lincoln', 'President_Lincoln', 'President_Abraham_Lincoln'}, set())
+Meronyms Tags are :[[Synset('university_of_nebraska.n.01')]]
+Holonym Tags are :[[Synset('nebraska.n.01')]]
+
+Token is : (
+Tags are : ['PUNCT', 'punct', '(', '-LRB-']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : February
+Tags are : ['PROPN', 'npadvmod', 'February', 'NNP']
+Hypernym Tags are :[[Synset('gregorian_calendar_month.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'February', 'Feb'}, set())
+Meronyms Tags are :[[Synset('candlemas.n.01'), Synset('groundhog_day.n.01'), Synset('leap_day.n.01'), Synset('lincoln's_birthday.n.01'), Synset('mid-february.n.01'), Synset('presidents'_day.n.01'), Synset('valentine_day.n.01'), Synset('washington's_birthday.n.01')]]
+Holonym Tags are :[[Synset('gregorian_calendar.n.01')]]
+
+Token is : 12
+Tags are : ['NUM', 'nummod', '12', 'CD']
+Hypernym Tags are :[[Synset('large_integer.n.01')]]
+Hyponym Tags are :[[Synset('boxcars.n.01')]]
+Synonym and Antonym Tags are :({'xii', '12', 'XII', 'twelve', 'dozen'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : 1809
+Tags are : ['NUM', 'npadvmod', '1809', 'CD']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : –
+Tags are : ['PUNCT', 'punct', '–', ':']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : April
+Tags are : ['PROPN', 'npadvmod', 'April', 'NNP']
+Hypernym Tags are :[[Synset('gregorian_calendar_month.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Apr', 'April'}, set())
+Meronyms Tags are :[[Synset('april_fools'.n.01'), Synset('mid-april.n.01'), Synset('pan_american_day.n.01'), Synset('patriot's_day.n.01')]]
+Holonym Tags are :[[Synset('gregorian_calendar.n.01')]]
+
+Token is : 15
+Tags are : ['NUM', 'nummod', '15', 'CD']
+Hypernym Tags are :[[Synset('large_integer.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'XV', 'xv', '15', 'fifteen'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : 1865
+Tags are : ['NUM', 'nummod', '1865', 'CD']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : )
+Tags are : ['PUNCT', 'punct', ')', '-RRB-']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : was
+Tags are : ['VERB', 'ROOT', 'be', 'VBD']
+Hypernym Tags are :[[Synset('typify.v.02')], [Synset('take.v.02')], [Synset('stay.v.01')], [Synset('be.v.01')]]
+Hyponym Tags are :[[Synset('abound.v.01'), Synset('accept.v.08'), Synset('account.v.01'), Synset('account_for.v.01'), Synset('act.v.06'), Synset('answer.v.06'), Synset('appear.v.04'), Synset('bake.v.04'), Synset('balance.v.04'), Synset('be_well.v.01'), Synset('beat.v.12'), Synset('begin.v.06'), Synset('begin.v.07'), Synset('belong.v.01'), Synset('belong.v.02'), Synset('belong.v.04'), Synset('belong.v.05'), Synset('breathe.v.04'), Synset('buy.v.03'), Synset('clean.v.05'), Synset('cohere.v.03'), Synset('come_in_for.v.01'), Synset('come_in_handy.v.01'), Synset('compact.v.01'), Synset('compare.v.02'), Synset('confuse.v.02'), Synset('connect.v.07'), Synset('consist.v.02'), Synset('consist.v.04'), Synset('contain.v.04'), Synset('contain.v.05'), Synset('continue.v.10'), Synset('cost.v.01'), Synset('count.v.02'), Synset('count.v.07'), Synset('cover.v.18'), Synset('cut.v.25'), Synset('cut_across.v.02'), Synset('deck.v.01'), Synset('depend.v.01'), Synset('deserve.v.01'), Synset('disagree.v.02'), Synset('distribute.v.09'), Synset('diverge.v.02'), Synset('draw.v.21'), Synset('end.v.03'), Synset('fall.v.04'), Synset('fall.v.16'), Synset('feel.v.04'), Synset('figure.v.02'), Synset('fit.v.07'), Synset('gape.v.02'), Synset('go.v.10'), Synset('gravitate.v.02'), Synset('hail.v.02'), Synset('hang.v.06'), Synset('head.v.04'), Synset('hold.v.17'), Synset('hoodoo.v.01'), Synset('hum.v.02'), Synset('impend.v.01'), Synset('incarnate.v.02'), Synset('iridesce.v.01'), Synset('jumble.v.01'), Synset('kill.v.04'), Synset('lend.v.03'), Synset('let_go.v.02'), Synset('lie.v.04'), Synset('litter.v.01'), Synset('loiter.v.01'), Synset('look.v.02'), Synset('look.v.03'), Synset('lubricate.v.01'), Synset('make.v.31'), Synset('make_sense.v.01'), Synset('measure.v.03'), Synset('mope.v.02'), Synset('object.v.02'), Synset('osculate.v.01'), Synset('owe.v.03'), Synset('pay.v.07'), Synset('point.v.10'), Synset('press.v.08'), Synset('promise.v.04'), Synset('prove.v.01'), Synset('put_out.v.06'), Synset('rage.v.02'), Synset('range.v.01'), Synset('rank.v.01'), Synset('rate.v.02'), Synset('recognize.v.08'), Synset('relate.v.04'), Synset('remain.v.03'), Synset('represent.v.03'), Synset('rest.v.01'), Synset('retard.v.02'), Synset('run.v.05'), Synset('run_into.v.01'), Synset('rut.v.01'), Synset('seem.v.03'), Synset('seethe.v.02'), Synset('sell.v.02'), Synset('sell.v.06'), Synset('sell.v.07'), Synset('shine.v.04'), Synset('shine.v.05'), Synset('sparkle.v.02'), Synset('specify.v.03'), Synset('squat.v.02'), Synset('stagnate.v.01'), Synset('stagnate.v.03'), Synset('stand.v.02'), Synset('stand.v.03'), Synset('stand_by.v.03'), Synset('stay.v.01'), Synset('stay.v.04'), Synset('stick.v.04'), Synset('stink.v.01'), Synset('subtend.v.01'), Synset('suck.v.04'), Synset('suffer.v.06'), Synset('suffer.v.08'), Synset('suit.v.02'), Synset('swim.v.03'), Synset('swim.v.04'), Synset('swing.v.10'), Synset('tend.v.01'), Synset('test.v.04'), Synset('total.v.01'), Synset('translate.v.07'), Synset('transplant.v.02'), Synset('trim.v.05'), Synset('underlie.v.01'), Synset('want.v.02'), Synset('wash.v.05'), Synset('wind.v.02'), Synset('work.v.14')], [Synset('attend.v.01'), Synset('belong.v.03'), Synset('center_on.v.02'), Synset('come.v.10'), Synset('cover.v.03'), Synset('extend.v.06'), Synset('face.v.04'), Synset('follow.v.08'), Synset('go.v.25'), Synset('inhabit.v.02'), Synset('lie.v.01'), Synset('lie.v.06'), Synset('occupy.v.03'), Synset('populate.v.01'), Synset('reach.v.06'), Synset('run.v.03'), Synset('sit.v.02'), Synset('sit.v.07'), Synset('stand_back.v.01'), Synset('straddle.v.01'), Synset('stretch.v.01')], [Synset('coexist.v.02'), Synset('come.v.06'), Synset('distribute.v.08'), Synset('dwell.v.02'), Synset('dwell.v.04'), Synset('endanger.v.01'), Synset('flow.v.04'), Synset('indwell.v.01'), Synset('kick_around.v.01'), Synset('preexist.v.01'), Synset('prevail.v.02')], [Synset('equate.v.02'), Synset('match.v.01'), Synset('represent.v.01'), Synset('translate.v.06')], [Synset('compose.v.01'), Synset('fall_into.v.01'), Synset('form.v.02'), Synset('make.v.34'), Synset('present.v.05'), Synset('range.v.04'), Synset('supplement.v.02')], [Synset('cox.v.01'), Synset('vet.v.01')], [Synset('body.v.01'), Synset('exemplify.v.01')], [Synset('set_back.v.03')]]
+Synonym and Antonym Tags are :({'live', 'personify', 'comprise', 'exist', 'cost', 'Evergreen_State', 'WA', 'constitute', 'embody', 'follow', 'make_up', 'be', 'equal', 'represent', 'Washington'}, {'differ'})
+Meronyms Tags are :[[Synset('aberdeen.n.01'), Synset('adams.n.04'), Synset('bellingham.n.01'), Synset('cape_flattery.n.01'), Synset('columbia.n.01'), Synset('inland_passage.n.01'), Synset('kennewick.n.01'), Synset('lake_chelan.n.01'), Synset('mount_ranier_national_park.n.01'), Synset('mount_saint_helens.n.01'), Synset('north_cascades_national_park.n.01'), Synset('olympia.n.01'), Synset('olympic_national_park.n.01'), Synset('pacific_northwest.n.01'), Synset('puget_sound.n.01'), Synset('ranier.n.01'), Synset('scablands.n.01'), Synset('seattle.n.01'), Synset('snake.n.03'), Synset('spokane.n.01'), Synset('tacoma.n.01'), Synset('vancouver.n.02'), Synset('walla_walla.n.01'), Synset('yakima.n.01')]]
+Holonym Tags are :[[Synset('united_states.n.01')]]
+
+Token is : an
+Tags are : ['DET', 'det', 'an', 'DT']
+Hypernym Tags are :[[Synset('associate_degree.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Associate_in_Nursing', 'AN'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : American
+Tags are : ['ADJ', 'amod', 'american', 'JJ']
+Hypernym Tags are :[[Synset('inhabitant.n.01')], [Synset('english.n.01')], [Synset('inhabitant.n.01')]]
+Hyponym Tags are :[[Synset('african-american.n.01'), Synset('alabaman.n.01'), Synset('alaskan.n.01'), Synset('anglo-american.n.01'), Synset('appalachian.n.01'), Synset('arizonan.n.01'), Synset('arkansan.n.01'), Synset('asian_american.n.01'), Synset('bay_stater.n.01'), Synset('bostonian.n.01'), Synset('californian.n.01'), Synset('carolinian.n.01'), Synset('coloradan.n.01'), Synset('connecticuter.n.01'), Synset('creole.n.02'), Synset('delawarean.n.01'), Synset('floridian.n.01'), Synset('franco-american.n.01'), Synset('georgian.n.01'), Synset('german_american.n.01'), Synset('hawaiian.n.02'), Synset('idahoan.n.01'), Synset('illinoisan.n.01'), Synset('indianan.n.01'), Synset('iowan.n.01'), Synset('kansan.n.01'), Synset('kentuckian.n.01'), Synset('louisianan.n.01'), Synset('mainer.n.01'), Synset('marylander.n.01'), Synset('michigander.n.01'), Synset('minnesotan.n.01'), Synset('mississippian.n.02'), Synset('missourian.n.01'), Synset('montanan.n.01'), Synset('nebraskan.n.01'), Synset('nevadan.n.01'), Synset('new_englander.n.01'), Synset('new_hampshirite.n.01'), Synset('new_jerseyan.n.01'), Synset('new_mexican.n.01'), Synset('new_yorker.n.01'), Synset('nisei.n.01'), Synset('north_carolinian.n.01'), Synset('north_dakotan.n.01'), Synset('ohioan.n.01'), Synset('oklahoman.n.01'), Synset('oregonian.n.01'), Synset('pennsylvanian.n.02'), Synset('puerto_rican.n.01'), Synset('rhode_islander.n.01'), Synset('south_carolinian.n.01'), Synset('south_dakotan.n.01'), Synset('southerner.n.01'), Synset('spanish_american.n.01'), Synset('tennessean.n.01'), Synset('texan.n.01'), Synset('tory.n.01'), Synset('utahan.n.01'), Synset('vermonter.n.01'), Synset('virginian.n.01'), Synset('washingtonian.n.01'), Synset('washingtonian.n.02'), Synset('west_virginian.n.01'), Synset('wisconsinite.n.01'), Synset('wyomingite.n.01'), Synset('yankee.n.01'), Synset('yankee.n.03')], [Synset('african_american_vernacular_english.n.01')], [Synset('creole.n.01'), Synset('latin_american.n.01'), Synset('mesoamerican.n.01'), Synset('north_american.n.01'), Synset('south_american.n.01'), Synset('west_indian.n.01')]]
+Synonym and Antonym Tags are :({'American_English', 'American', 'American_language'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : statesman
+Tags are : ['NOUN', 'attr', 'statesman', 'NN']
+Hypernym Tags are :[[Synset('politician.n.02')]]
+Hyponym Tags are :[[Synset('elder_statesman.n.02'), Synset('founding_father.n.01'), Synset('stateswoman.n.01')]]
+Synonym and Antonym Tags are :({'national_leader', 'solon', 'statesman'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : politician
+Tags are : ['NOUN', 'conj', 'politician', 'NN']
+Hypernym Tags are :[[Synset('leader.n.01')], [Synset('leader.n.01')], [Synset('schemer.n.01')]]
+Hyponym Tags are :[[Synset('governor.n.01'), Synset('legislator.n.01'), Synset('mayor.n.01')], [Synset('campaigner.n.01'), Synset('communist.n.01'), Synset('demagogue.n.01'), Synset('democrat.n.01'), Synset('federalist.n.01'), Synset('labourite.n.01'), Synset('machine_politician.n.01'), Synset('mugwump.n.01'), Synset('noncandidate.n.01'), Synset('party_boss.n.01'), Synset('party_man.n.01'), Synset('potemkin.n.01'), Synset('republican.n.01'), Synset('sachem.n.01'), Synset('socialist.n.01'), Synset('standard-bearer.n.01'), Synset('statesman.n.01'), Synset('technocrat.n.02'), Synset('whig.n.03')]]
+Synonym and Antonym Tags are :({'political_leader', 'politico', 'politician', 'pol'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : and
+Tags are : ['CCONJ', 'cc', 'and', 'CC']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : lawyer
+Tags are : ['NOUN', 'conj', 'lawyer', 'NN']
+Hypernym Tags are :[[Synset('professional.n.01')]]
+Hyponym Tags are :[[Synset('advocate.n.02'), Synset('ambulance_chaser.n.01'), Synset('barrister.n.01'), Synset('conveyancer.n.01'), Synset('defense_attorney.n.01'), Synset('divorce_lawyer.n.01'), Synset('prosecutor.n.01'), Synset('public_defender.n.01'), Synset('referee.n.03'), Synset('solicitor.n.02'), Synset('trial_attorney.n.01')]]
+Synonym and Antonym Tags are :({'attorney', 'lawyer'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : who
+Tags are : ['PRON', 'nsubj', 'who', 'WP']
+Hypernym Tags are :[[Synset('united_nations_agency.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'World_Health_Organization', 'WHO'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : served
+Tags are : ['VERB', 'relcl', 'serve', 'VBD']
+Hypernym Tags are :[[Synset('suffice.v.01')], [Synset('work.v.02')], [Synset('effect.v.01')], [Synset('function.v.01')], [Synset('provide.v.02')], [Synset('provide.v.02')], [Synset('work.v.01')], [Synset('foster.v.03')], [Synset('spend.v.01')], [Synset('help.v.01')], [Synset('deliver.v.02')], [Synset('satisfy.v.01')], [Synset('work.v.02')], [Synset('copulate.v.01')], [Synset('move.v.15')]]
+Hyponym Tags are :[[Synset('act_as.v.01'), Synset('prelude.v.01')], [Synset('act.v.04'), Synset('caddie.v.01'), Synset('officiate.v.02'), Synset('represent.v.04'), Synset('rotate.v.03'), Synset('sit.v.10'), Synset('staff.v.02')], [Synset('help.v.03')], [Synset('plank.v.03')], [Synset('admit.v.08')], [Synset('fag.v.01'), Synset('valet.v.01')], [Synset('subpoena.v.01'), Synset('wash.v.01')], [Synset('go_a_long_way.v.01'), Synset('go_around.v.01'), Synset('qualify.v.01'), Synset('serve.v.01'), Synset('tide_over.v.01')], [Synset('stand.v.12')], [Synset('ace.v.04')]]
+Synonym and Antonym Tags are :({'wait_on', 'answer', 'service', 'suffice', 'serve_up', 'attend', 'dish_up', 'do', 'attend_to', 'swear_out', 'assist', 'dish_out', 'help', 'serve', 'process', 'function', 'dish', 'serve_well'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : as
+Tags are : ['ADP', 'prep', 'as', 'IN']
+Hypernym Tags are :[[Synset('chemical_element.n.01')], [Synset('metric_linear_unit.n.01')], [Synset('fat-soluble_vitamin.n.01')], [Synset('nucleotide.n.01')], [Synset('purine.n.01')], [Synset('current_unit.n.01')], [Synset('letter.n.02')], [Synset('blood_group.n.01')]]
+Hyponym Tags are :[[Synset('vitamin_a1.n.01'), Synset('vitamin_a2.n.01')]]
+Synonym and Antonym Tags are :({'American_Samoa', 'deoxyadenosine_monophosphate', 'arsenic', 'atomic_number_33', 'antiophthalmic_factor', 'ampere', 'Eastern_Samoa', 'as', 'angstrom', 'angstrom_unit', 'amp', 'axerophthol', 'adenine', 'group_A', 'AS', 'a', 'vitamin_A', 'A', 'type_A', 'As', 'equally', 'every_bit'}, set())
+Meronyms Tags are :[[Synset('pago_pago.n.01')], [Synset('picometer.n.01')], [Synset('milliampere.n.01')]]
+Holonym Tags are :[[Synset('samoa.n.02')], [Synset('nanometer.n.01')], [Synset('abampere.n.01')]]
+
+Token is : the
+Tags are : ['DET', 'det', 'the', 'DT']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : 16th
+Tags are : ['ADJ', 'amod', '16th', 'JJ']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'16th', 'sixteenth'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : president
+Tags are : ['NOUN', 'pobj', 'president', 'NN']
+Hypernym Tags are :[[Synset('corporate_executive.n.01')], [Synset('head_of_state.n.01')], [Synset('head_of_state.n.01')], [Synset('presiding_officer.n.01')], [Synset('academic_administrator.n.01')], [Synset('presidency.n.02')]]
+Hyponym Tags are :[[Synset('ex-president.n.01')], [Synset('kalon_tripa.n.01'), Synset('vice_chairman.n.01')]]
+Synonym and Antonym Tags are :({'president', 'chairwoman', 'Chief_Executive', 'United_States_President', 'chairman', 'President', 'chairperson', 'President_of_the_United_States', 'chair', 'prexy'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[[Synset('executive_branch.n.01')]]
+
+Token is : of
+Tags are : ['ADP', 'prep', 'of', 'IN']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : the
+Tags are : ['DET', 'det', 'the', 'DT']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : United
+Tags are : ['PROPN', 'compound', 'United', 'NNP']
+Hypernym Tags are :[[Synset('join.v.01')], [Synset('integrate.v.03')], [Synset('have.v.02')], [Synset('change.v.01')], [Synset('change.v.01')]]
+Hyponym Tags are :[[Synset('ally_with.v.01'), Synset('band_together.v.01'), Synset('club.v.01'), Synset('confederate.v.02'), Synset('consociate.v.01'), Synset('federate.v.02'), Synset('league.v.01'), Synset('marry.v.01'), Synset('pair.v.01'), Synset('reunify.v.01')], [Synset('coalesce.v.02'), Synset('consolidate.v.01'), Synset('consubstantiate.v.01'), Synset('converge.v.04'), Synset('federate.v.01'), Synset('syncretize.v.02')], [Synset('articulate.v.04'), Synset('complect.v.01'), Synset('syndicate.v.01')], [Synset('bond.v.04')], [Synset('consolidate.v.03'), Synset('consubstantiate.v.02'), Synset('weld.v.02')]]
+Synonym and Antonym Tags are :({'unite', 'united', 'join', 'unify', 'joined', 'merge', 'connect', 'link_up', 'link', 'combine'}, {'disunify', 'divided', 'divide'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : States
+Tags are : ['PROPN', 'pobj', 'States', 'NNP']
+Hypernym Tags are :[[Synset('administrative_district.n.01')], [Synset('attribute.n.02')], [Synset('government.n.01')], [Synset('political_unit.n.01')], [Synset('chemical_phenomenon.n.01')], [Synset('emotional_state.n.01')], [Synset('administrative_district.n.01')], [Synset('executive_department.n.01')], [Synset('express.v.02')], [Synset('propose.v.01')], [Synset('denote.v.02')]]
+Hyponym Tags are :[[Synset('american_state.n.01'), Synset('australian_state.n.01'), Synset('canadian_province.n.01'), Synset('commonwealth.n.01'), Synset('eparchy.n.01'), Synset('italian_region.n.01'), Synset('soviet_socialist_republic.n.01')], [Synset('action.n.02'), Synset('being.n.01'), Synset('cleavage.n.01'), Synset('condition.n.01'), Synset('condition.n.03'), Synset('conditionality.n.01'), Synset('conflict.n.04'), Synset('damnation.n.02'), Synset('dead_letter.n.01'), Synset('death.n.03'), Synset('degree.n.02'), Synset('dependence.n.01'), Synset('disorder.n.03'), Synset('dystopia.n.01'), Synset('employment.n.01'), Synset('end.n.06'), Synset('enlargement.n.02'), Synset('feeling.n.01'), Synset('flux.n.05'), Synset('freedom.n.01'), Synset('grace.n.01'), Synset('ground_state.n.01'), Synset('heterozygosity.n.01'), Synset('homozygosity.n.01'), Synset('hostility.n.02'), Synset('illumination.n.02'), Synset('immaturity.n.01'), Synset('imminence.n.01'), Synset('imperfection.n.01'), Synset('inaction.n.01'), Synset('integrity.n.01'), Synset('isomerism.n.01'), Synset('kalemia.n.01'), Synset('maturity.n.02'), Synset('medium.n.08'), Synset('merchantability.n.01'), Synset('motion.n.04'), Synset('motionlessness.n.01'), Synset('nationhood.n.01'), Synset('neotony.n.01'), Synset('nonbeing.n.01'), Synset('obligation.n.02'), Synset('office.n.04'), Synset('omnipotence.n.01'), Synset('omniscience.n.01'), Synset('order.n.03'), Synset('ornamentation.n.01'), Synset('ownership.n.03'), Synset('paternity.n.01'), Synset('perfection.n.01'), Synset('plurality.n.01'), Synset('polyvalence.n.01'), Synset('polyvalence.n.02'), Synset('readiness.n.01'), Synset('receivership.n.01'), Synset('relationship.n.02'), Synset('relationship.n.03'), Synset('representation.n.04'), Synset('revocation.n.01'), Synset('separation.n.01'), Synset('situation.n.01'), Synset('skillfulness.n.01'), Synset('status.n.01'), Synset('temporary_state.n.01'), Synset('tribalism.n.01'), Synset('turgor.n.01'), Synset('unemployment.n.01'), Synset('union.n.04'), Synset('utilization.n.02'), Synset('utopia.n.02'), Synset('wild.n.01')], [Synset('soviets.n.01'), Synset('welfare_state.n.01')], [Synset('ally.n.01'), Synset('city_state.n.01'), Synset('commonwealth_country.n.01'), Synset('developing_country.n.01'), Synset('dominion.n.03'), Synset('foreign_country.n.01'), Synset('reich.n.01'), Synset('rogue_state.n.01'), Synset('sea_power.n.02'), Synset('suzerain.n.01'), Synset('world_power.n.01')], [Synset('gas.n.01'), Synset('liquid.n.02'), Synset('phase.n.02'), Synset('plasma.n.03'), Synset('solid.n.02')], [Synset('african_country.n.01'), Synset('asian_country.n.01'), Synset('banana_republic.n.01'), Synset('buffer_state.n.01'), Synset('european_country.n.01'), Synset('fatherland.n.01'), Synset('kingdom.n.02'), Synset('north_american_country.n.01'), Synset('south_american_country.n.01'), Synset('sultanate.n.01'), Synset('tax_haven.n.01')], [Synset('foggy_bottom.n.01')], [Synset('add.v.02'), Synset('announce.v.02'), Synset('answer.v.01'), Synset('articulate.v.05'), Synset('declare.v.01'), Synset('declare.v.07'), Synset('explain.v.02'), Synset('get_out.v.04'), Synset('give.v.04'), Synset('misstate.v.01'), Synset('note.v.01'), Synset('precede.v.05'), Synset('present.v.02'), Synset('summarize.v.02')], [Synset('vote.v.02'), Synset('vote.v.03')]]
+Synonym and Antonym Tags are :({'DoS', 'tell', 'nation', 'state', 'province', 'State', 'State_Department', 'say', 'body_politic', 'country', 'United_States_Department_of_State', 'state_of_matter', 'put_forward', 'submit', 'express', 'commonwealth', 'res_publica', 'land', 'Department_of_State', 'posit'}, set())
+Meronyms Tags are :[[Synset('estate_of_the_realm.n.01')], [Synset('domain.n.02'), Synset('midland.n.02')], [Synset('bureau_of_diplomatic_security.n.01'), Synset('bureau_of_intelligence_and_research.n.01'), Synset('foreign_service.n.01')]]
+Holonym Tags are :[]
+
+Token is : from
+Tags are : ['ADP', 'prep', 'from', 'IN']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : 1861
+Tags are : ['NUM', 'pobj', '1861', 'CD']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : until
+Tags are : ['ADP', 'prep', 'until', 'IN']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : his
+Tags are : ['DET', 'poss', '-PRON-', 'PRP$']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : assassination
+Tags are : ['NOUN', 'pobj', 'assassination', 'NN']
+Hypernym Tags are :[[Synset('defamation.n.01')], [Synset('murder.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'blackwash', 'assassination', 'character_assassination'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : in
+Tags are : ['ADP', 'prep', 'in', 'IN']
+Hypernym Tags are :[[Synset('linear_unit.n.01')], [Synset('metallic_element.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Hoosier_State', 'inward', 'in', 'atomic_number_49', 'indium', 'In', 'inch', 'IN', 'Indiana', 'inwards'}, set())
+Meronyms Tags are :[[Synset('em.n.02'), Synset('ligne.n.01'), Synset('mesh.n.01'), Synset('mil.n.03')], [Synset('bloomington.n.01'), Synset('evansville.n.01'), Synset('fort_wayne.n.01'), Synset('gary.n.01'), Synset('indianapolis.n.01'), Synset('lafayette.n.03'), Synset('muncie.n.01'), Synset('south_bend.n.01'), Synset('wabash.n.01')]]
+Holonym Tags are :[[Synset('foot.n.02')], [Synset('corn_belt.n.01'), Synset('midwest.n.01'), Synset('united_states.n.01')]]
+
+Token is : April
+Tags are : ['PROPN', 'pobj', 'April', 'NNP']
+Hypernym Tags are :[[Synset('gregorian_calendar_month.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Apr', 'April'}, set())
+Meronyms Tags are :[[Synset('april_fools'.n.01'), Synset('mid-april.n.01'), Synset('pan_american_day.n.01'), Synset('patriot's_day.n.01')]]
+Holonym Tags are :[[Synset('gregorian_calendar.n.01')]]
+
+Token is : 1865
+Tags are : ['NUM', 'nummod', '1865', 'CD']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : .
+Tags are : ['PUNCT', 'punct', '.', '.']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : Lincoln
+Tags are : ['PROPN', 'nsubj', 'Lincoln', 'NNP']
+Hypernym Tags are :[[Synset('domestic_sheep.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Lincoln', 'capital_of_Nebraska', 'Abraham_Lincoln', 'President_Lincoln', 'President_Abraham_Lincoln'}, set())
+Meronyms Tags are :[[Synset('university_of_nebraska.n.01')]]
+Holonym Tags are :[[Synset('nebraska.n.01')]]
+
+Token is : led
+Tags are : ['VERB', 'ROOT', 'lead', 'VBD']
+Hypernym Tags are :[[Synset('diode.n.02')], [Synset('produce.v.03')], [Synset('leave.v.07')], [Synset('precede.v.04')], [Synset('induce.v.02')], [Synset('be.v.03')], [Synset('direct.v.04')], [Synset('promote.v.01')], [Synset('perform.v.01')], [Synset('be.v.03')], [Synset('travel.v.01')], [Synset('pass.v.22')], [Synset('hash_out.v.01')]]
+Hyponym Tags are :[[Synset('organic_light-emitting_diode.n.01')], [Synset('beacon.v.02'), Synset('hand.v.02'), Synset('mislead.v.01'), Synset('usher.v.01')], [Synset('lead.v.03')], [Synset('entail.v.02'), Synset('necessitate.v.02')], [Synset('draw_away.v.01')], [Synset('give.v.39')], [Synset('come.v.09'), Synset('go_far.v.02'), Synset('radiate.v.03')], [Synset('captain.v.01'), Synset('chair.v.01'), Synset('spearhead.v.01'), Synset('take_hold.v.01')], [Synset('lead.v.04')]]
+Synonym and Antonym Tags are :({'leave', 'contribute', 'conduce', 'result', 'light-emitting_diode', 'LED', 'head', 'go', 'extend', 'precede', 'direct', 'take', 'conduct', 'lead', 'top', 'moderate', 'guide', 'pass', 'run', 'chair'}, {'follow'})
+Meronyms Tags are :[]
+Holonym Tags are :[[Synset('digital_display.n.01')]]
+
+Token is : the
+Tags are : ['DET', 'det', 'the', 'DT']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : nation
+Tags are : ['NOUN', 'dobj', 'nation', 'NN']
+Hypernym Tags are :[[Synset('political_unit.n.01')], [Synset('people.n.01')], [Synset('confederation.n.02')]]
+Hyponym Tags are :[[Synset('ally.n.01'), Synset('city_state.n.01'), Synset('commonwealth_country.n.01'), Synset('developing_country.n.01'), Synset('dominion.n.03'), Synset('foreign_country.n.01'), Synset('reich.n.01'), Synset('rogue_state.n.01'), Synset('sea_power.n.02'), Synset('suzerain.n.01'), Synset('world_power.n.01')], [Synset('british.n.01'), Synset('dutch.n.01'), Synset('english.n.02'), Synset('french.n.02'), Synset('irish.n.01'), Synset('spanish.n.02'), Synset('swiss.n.01')], [Synset('tribe.n.02')]]
+Synonym and Antonym Tags are :({'nation', 'state', 'Carry_Nation', 'body_politic', 'country', 'Nation', 'commonwealth', 'Carry_Amelia_Moore_Nation', 'res_publica', 'land'}, set())
+Meronyms Tags are :[[Synset('estate_of_the_realm.n.01')]]
+Holonym Tags are :[]
+
+Token is : through
+Tags are : ['ADP', 'prep', 'through', 'IN']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'through', 'done', 'through_with', 'through_and_through'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : the
+Tags are : ['DET', 'det', 'the', 'DT']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : American
+Tags are : ['PROPN', 'compound', 'American', 'NNP']
+Hypernym Tags are :[[Synset('inhabitant.n.01')], [Synset('english.n.01')], [Synset('inhabitant.n.01')]]
+Hyponym Tags are :[[Synset('african-american.n.01'), Synset('alabaman.n.01'), Synset('alaskan.n.01'), Synset('anglo-american.n.01'), Synset('appalachian.n.01'), Synset('arizonan.n.01'), Synset('arkansan.n.01'), Synset('asian_american.n.01'), Synset('bay_stater.n.01'), Synset('bostonian.n.01'), Synset('californian.n.01'), Synset('carolinian.n.01'), Synset('coloradan.n.01'), Synset('connecticuter.n.01'), Synset('creole.n.02'), Synset('delawarean.n.01'), Synset('floridian.n.01'), Synset('franco-american.n.01'), Synset('georgian.n.01'), Synset('german_american.n.01'), Synset('hawaiian.n.02'), Synset('idahoan.n.01'), Synset('illinoisan.n.01'), Synset('indianan.n.01'), Synset('iowan.n.01'), Synset('kansan.n.01'), Synset('kentuckian.n.01'), Synset('louisianan.n.01'), Synset('mainer.n.01'), Synset('marylander.n.01'), Synset('michigander.n.01'), Synset('minnesotan.n.01'), Synset('mississippian.n.02'), Synset('missourian.n.01'), Synset('montanan.n.01'), Synset('nebraskan.n.01'), Synset('nevadan.n.01'), Synset('new_englander.n.01'), Synset('new_hampshirite.n.01'), Synset('new_jerseyan.n.01'), Synset('new_mexican.n.01'), Synset('new_yorker.n.01'), Synset('nisei.n.01'), Synset('north_carolinian.n.01'), Synset('north_dakotan.n.01'), Synset('ohioan.n.01'), Synset('oklahoman.n.01'), Synset('oregonian.n.01'), Synset('pennsylvanian.n.02'), Synset('puerto_rican.n.01'), Synset('rhode_islander.n.01'), Synset('south_carolinian.n.01'), Synset('south_dakotan.n.01'), Synset('southerner.n.01'), Synset('spanish_american.n.01'), Synset('tennessean.n.01'), Synset('texan.n.01'), Synset('tory.n.01'), Synset('utahan.n.01'), Synset('vermonter.n.01'), Synset('virginian.n.01'), Synset('washingtonian.n.01'), Synset('washingtonian.n.02'), Synset('west_virginian.n.01'), Synset('wisconsinite.n.01'), Synset('wyomingite.n.01'), Synset('yankee.n.01'), Synset('yankee.n.03')], [Synset('african_american_vernacular_english.n.01')], [Synset('creole.n.01'), Synset('latin_american.n.01'), Synset('mesoamerican.n.01'), Synset('north_american.n.01'), Synset('south_american.n.01'), Synset('west_indian.n.01')]]
+Synonym and Antonym Tags are :({'American_English', 'American', 'American_language'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : Civil
+Tags are : ['PROPN', 'compound', 'Civil', 'NNP']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'polite', 'civil', 'civic'}, {'sidereal', 'uncivil'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : War
+Tags are : ['PROPN', 'pobj', 'War', 'NNP']
+Hypernym Tags are :[[Synset('military_action.n.01')], [Synset('hostility.n.02')], [Synset('conflict.n.01')], [Synset('campaign.n.02')], [Synset('contend.v.06')]]
+Hyponym Tags are :[[Synset('biological_warfare.n.01'), Synset('chemical_warfare.n.01'), Synset('civil_war.n.01'), Synset('hot_war.n.01'), Synset('information_warfare.n.01'), Synset('jihad.n.01'), Synset('limited_war.n.01'), Synset('psychological_warfare.n.01'), Synset('world_war.n.01')], [Synset('proxy_war.n.01')], [Synset('drug_war.n.01'), Synset('trench_warfare.n.01')], [Synset('blitzkrieg.v.01'), Synset('go_to_war.v.01')]]
+Synonym and Antonym Tags are :({'warfare', 'war', 'state_of_war'}, {'peace', 'make_peace'})
+Meronyms Tags are :[[Synset('aggression.n.04'), Synset('battle.n.01'), Synset('combat.n.01')]]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : its
+Tags are : ['DET', 'poss', '-PRON-', 'PRP$']
+Hypernym Tags are :[[Synset('engineering.n.02')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'information_technology', 'IT'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : bloodiest
+Tags are : ['ADJ', 'amod', 'bloody', 'JJS']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'bloody', 'blinking', 'crashing', 'flaming', 'bally', 'fucking', 'blooming'}, {'bloodless'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : war
+Tags are : ['NOUN', 'appos', 'war', 'NN']
+Hypernym Tags are :[[Synset('military_action.n.01')], [Synset('hostility.n.02')], [Synset('conflict.n.01')], [Synset('campaign.n.02')], [Synset('contend.v.06')]]
+Hyponym Tags are :[[Synset('biological_warfare.n.01'), Synset('chemical_warfare.n.01'), Synset('civil_war.n.01'), Synset('hot_war.n.01'), Synset('information_warfare.n.01'), Synset('jihad.n.01'), Synset('limited_war.n.01'), Synset('psychological_warfare.n.01'), Synset('world_war.n.01')], [Synset('proxy_war.n.01')], [Synset('drug_war.n.01'), Synset('trench_warfare.n.01')], [Synset('blitzkrieg.v.01'), Synset('go_to_war.v.01')]]
+Synonym and Antonym Tags are :({'warfare', 'war', 'state_of_war'}, {'peace', 'make_peace'})
+Meronyms Tags are :[[Synset('aggression.n.04'), Synset('battle.n.01'), Synset('combat.n.01')]]
+Holonym Tags are :[]
+
+Token is : and
+Tags are : ['CCONJ', 'cc', 'and', 'CC']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : its
+Tags are : ['DET', 'poss', '-PRON-', 'PRP$']
+Hypernym Tags are :[[Synset('engineering.n.02')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'information_technology', 'IT'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : greatest
+Tags are : ['ADJ', 'amod', 'great', 'JJS']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'sterling', 'large', 'cracking', 'not_bad', 'swell', 'big', 'outstanding', 'bang-up', 'bully', 'capital', 'corking', 'keen', 'peachy', 'gravid', 'dandy', 'smashing', 'enceinte', 'nifty', 'neat', 'groovy', 'majuscule', 'with_child', 'heavy', 'great', 'greatest', 'superlative', 'slap-up', 'expectant'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : moral
+Tags are : ['ADJ', 'amod', 'moral', 'JJ']
+Hypernym Tags are :[[Synset('meaning.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'lesson', 'moral'}, {'immoral'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : constitutional
+Tags are : ['ADJ', 'conj', 'constitutional', 'JJ']
+Hypernym Tags are :[[Synset('walk.n.04')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'constituent', 'inbuilt', 'constitutional', 'inherent', 'built-in', 'integral', 'constitutive', 'organic'}, {'unconstitutional'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : and
+Tags are : ['CCONJ', 'cc', 'and', 'CC']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : political
+Tags are : ['ADJ', 'conj', 'political', 'JJ']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'political'}, {'nonpolitical'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : crisis
+Tags are : ['NOUN', 'conj', 'crisis', 'NN']
+Hypernym Tags are :[[Synset('situation.n.03')], [Synset('juncture.n.01')]]
+Hyponym Tags are :[[Synset('depression.n.02'), Synset('dunkirk.n.01'), Synset('exigency.n.01'), Synset('juncture.n.02')], [Synset('emergency.n.01')]]
+Synonym and Antonym Tags are :({'crisis'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : .
+Tags are : ['PUNCT', 'punct', '.', '.']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : He
+Tags are : ['PRON', 'nsubj', '-PRON-', 'PRP']
+Hypernym Tags are :[[Synset('chemical_element.n.01'), Synset('noble_gas.n.01')], [Synset('letter.n.02')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'he', 'He', 'atomic_number_2', 'helium'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : preserved
+Tags are : ['VERB', 'ROOT', 'preserve', 'VBD']
+Hypernym Tags are :[[Synset('keep.v.01')], [Synset('keep.v.07')], [Synset('keep.v.03')], [Synset('cook.v.02')], [Synset('protect.v.01')], [Synset('keep.v.01')]]
+Hyponym Tags are :[[Synset('mummify.v.01'), Synset('perpetuate.v.01'), Synset('persevere.v.01'), Synset('prolong.v.02'), Synset('resume.v.01')], [Synset('embalm.v.01'), Synset('hold_the_line.v.01'), Synset('plastinate.v.01')], [Synset('conserve.v.03'), Synset('record.v.01')], [Synset('can.v.01'), Synset('conserve.v.04'), Synset('corn.v.02'), Synset('cure.v.02'), Synset('dehydrate.v.01'), Synset('freeze-dry.v.01'), Synset('pickle.v.01'), Synset('refrigerate.v.01'), Synset('salt.v.04')]]
+Synonym and Antonym Tags are :({'preserved', 'keep_up', 'conserve', 'maintain', 'bear_on', 'keep', 'carry_on', 'continue', 'uphold', 'preserve', 'save'}, {'destroyed', 'fresh', 'discontinue'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : the
+Tags are : ['DET', 'det', 'the', 'DT']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : Union
+Tags are : ['PROPN', 'dobj', 'Union', 'NNP']
+Hypernym Tags are :[[Synset('organization.n.01')], [Synset('sexual_activity.n.01')], [Synset('state.n.02')], [Synset('marital_status.n.01')], [Synset('healing.n.01')], [Synset('political_unit.n.01')], [Synset('set.n.01')], [Synset('happening.n.01')], [Synset('device.n.05')], [Synset('combination.n.07')]]
+Hyponym Tags are :[[Synset('company_union.n.01'), Synset('craft_union.n.01'), Synset('industrial_union.n.01'), Synset('industrial_workers_of_the_world.n.01')], [Synset('assortative_mating.n.01'), Synset('disassortative_mating.n.01'), Synset('hybridization.n.01'), Synset('inbreeding.n.01'), Synset('servicing.n.01')], [Synset('association.n.03'), Synset('coalition.n.02'), Synset('connection.n.02'), Synset('junction.n.02'), Synset('marriage.n.04'), Synset('syncretism.n.01')], [Synset('bigamy.n.01'), Synset('common-law_marriage.n.01'), Synset('cuckoldom.n.01'), Synset('endogamy.n.01'), Synset('exogamy.n.01'), Synset('marriage_of_convenience.n.01'), Synset('misalliance.n.01'), Synset('monandry.n.01'), Synset('monogamy.n.01'), Synset('open_marriage.n.01'), Synset('polygamy.n.01'), Synset('sigeh.n.01')], [Synset('confederation.n.02'), Synset('customs_union.n.01'), Synset('enosis.n.01'), Synset('league.n.02')], [Synset('direct_sum.n.01')], [Synset('amphimixis.n.02'), Synset('combining.n.01'), Synset('fusion.n.01')], [Synset('coalescence.n.01'), Synset('reunion.n.02'), Synset('tribalization.n.01'), Synset('umbrella.n.03')]]
+Synonym and Antonym Tags are :({'pairing', 'jointure', 'Federal', 'sum', 'trades_union', 'matrimony', 'conglutination', 'labor_union', 'marriage', 'join', 'brotherhood', 'union', 'coupling', 'North', 'spousal_relationship', 'uniting', 'unification', 'trade_union', 'conjugation', 'mating', 'sexual_union', 'Union', 'wedlock'}, {'nonunion', 'separation', 'disunion'})
+Meronyms Tags are :[[Synset('free_state.n.02')]]
+Holonym Tags are :[[Synset('labor_movement.n.01')]]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : abolished
+Tags are : ['VERB', 'conj', 'abolish', 'VBD']
+Hypernym Tags are :[]
+Hyponym Tags are :[[Synset('abrogate.v.01'), Synset('cashier.v.01')]]
+Synonym and Antonym Tags are :({'abolish', 'get_rid_of'}, {'establish'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : slavery
+Tags are : ['NOUN', 'dobj', 'slavery', 'NN']
+Hypernym Tags are :[[Synset('subjugation.n.01')], [Synset('practice.n.01')], [Synset('labor.n.02')]]
+Hyponym Tags are :[[Synset('bonded_labor.n.01'), Synset('serfdom.n.01'), Synset('servitude.n.01')]]
+Synonym and Antonym Tags are :({'thrall', 'slaveholding', 'bondage', 'thralldom', 'slavery', 'thraldom'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : strengthened
+Tags are : ['VERB', 'conj', 'strengthen', 'VBD']
+Hypernym Tags are :[[Synset('change.v.01')], [Synset('change.v.02')], [Synset('exercise.v.04')]]
+Hyponym Tags are :[[Synset('batten.v.01'), Synset('batten.v.02'), Synset('brace.v.02'), Synset('buttress.v.02'), Synset('confirm.v.03'), Synset('reinforce.v.01'), Synset('restrengthen.v.01'), Synset('ruggedize.v.01'), Synset('substantiate.v.04'), Synset('undergird.v.02'), Synset('vitalize.v.02')], [Synset('back.v.10'), Synset('consolidate.v.02'), Synset('proof.v.05'), Synset('sandbag.v.05'), Synset('toughen.v.01')]]
+Synonym and Antonym Tags are :({'fortify', 'tone_up', 'reinforced', 'strengthen', 'strengthened', 'beef_up', 'tone'}, {'weaken'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : the
+Tags are : ['DET', 'det', 'the', 'DT']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : federal
+Tags are : ['ADJ', 'amod', 'federal', 'JJ']
+Hypernym Tags are :[[Synset('yankee.n.01')], [Synset('agent.n.05')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'Federal', 'federal', 'Union', 'Union_soldier', 'Federal_soldier', 'federal_official', 'Fed'}, {'unitary'})
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : government
+Tags are : ['NOUN', 'dobj', 'government', 'NN']
+Hypernym Tags are :[[Synset('polity.n.02')], [Synset('social_control.n.01')], [Synset('system.n.04')], [Synset('social_science.n.01')]]
+Hyponym Tags are :[[Synset('ancien_regime.n.01'), Synset('authoritarian_state.n.01'), Synset('bureaucracy.n.02'), Synset('court.n.03'), Synset('downing_street.n.02'), Synset('empire.n.02'), Synset('federal_government.n.01'), Synset('government-in-exile.n.01'), Synset('local_government.n.01'), Synset('military_government.n.01'), Synset('palace.n.02'), Synset('papacy.n.01'), Synset('puppet_government.n.01'), Synset('state.n.03'), Synset('state_government.n.01'), Synset('totalitarian_state.n.01')], [Synset('legislation.n.02'), Synset('misgovernment.n.01'), Synset('trust_busting.n.01')], [Synset('geopolitics.n.01'), Synset('realpolitik.n.01')]]
+Synonym and Antonym Tags are :({'governing', 'administration', 'authorities', 'politics', 'government', 'government_activity', 'political_science', 'regime', 'governance'}, set())
+Meronyms Tags are :[[Synset('administration.n.02'), Synset('judiciary.n.02')]]
+Holonym Tags are :[]
+
+Token is : ,
+Tags are : ['PUNCT', 'punct', ',', ',']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : and
+Tags are : ['CCONJ', 'cc', 'and', 'CC']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : modernized
+Tags are : ['VERB', 'conj', 'modernize', 'VBD']
+Hypernym Tags are :[[Synset('regenerate.v.01')], [Synset('change.v.02')]]
+Hyponym Tags are :[[Synset('retrofit.v.03')]]
+Synonym and Antonym Tags are :({'modernize', 'develop', 'modernised', 'modernise', 'modernized', 'overhaul'}, set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : the
+Tags are : ['DET', 'det', 'the', 'DT']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+Token is : U.S.
+Tags are : ['PROPN', 'compound', 'U.S.', 'NNP']
+Hypernym Tags are :[[Synset('federal_government.n.01')]]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :({'United_States_of_America', 'the_States', 'USA', 'U.S._government', 'America', 'US', 'U.S.A.', 'United_States_government', 'US_Government', 'U.S.', 'United_States'}, set())
+Meronyms Tags are :[[Synset('alabama.n.01'), Synset('alaska.n.01'), Synset('american_state.n.01'), Synset('arizona.n.01'), Synset('arkansas.n.01'), Synset('california.n.01'), Synset('colony.n.03'), Synset('colorado.n.01'), Synset('connecticut.n.01'), Synset('connecticut.n.02'), Synset('dakota.n.02'), Synset('delaware.n.04'), Synset('district_of_columbia.n.01'), Synset('east.n.03'), Synset('florida.n.01'), Synset('georgia.n.01'), Synset('great_lakes.n.01'), Synset('hawaii.n.01'), Synset('idaho.n.01'), Synset('illinois.n.01'), Synset('indiana.n.01'), Synset('iowa.n.02'), Synset('kansas.n.01'), Synset('kentucky.n.01'), Synset('louisiana.n.01'), Synset('louisiana_purchase.n.01'), Synset('maine.n.01'), Synset('maryland.n.01'), Synset('massachusetts.n.01'), Synset('michigan.n.01'), Synset('mid-atlantic_states.n.01'), Synset('midwest.n.01'), Synset('minnesota.n.01'), Synset('mississippi.n.01'), Synset('mississippi.n.02'), Synset('missouri.n.01'), Synset('missouri.n.02'), Synset('montana.n.01'), Synset('nebraska.n.01'), Synset('nevada.n.01'), Synset('new_england.n.01'), Synset('new_hampshire.n.01'), Synset('new_jersey.n.01'), Synset('new_mexico.n.01'), Synset('new_river.n.01'), Synset('new_york.n.02'), Synset('niagara.n.02'), Synset('niobrara.n.01'), Synset('north.n.01'), Synset('north_carolina.n.01'), Synset('north_dakota.n.01'), Synset('ohio.n.01'), Synset('ohio.n.02'), Synset('oklahoma.n.01'), Synset('oregon.n.01'), Synset('pacific_northwest.n.01'), Synset('pennsylvania.n.01'), Synset('rhode_island.n.01'), Synset('rio_grande.n.01'), Synset('saint_lawrence.n.02'), Synset('south.n.01'), Synset('south_carolina.n.02'), Synset('south_dakota.n.01'), Synset('sunbelt.n.01'), Synset('tennessee.n.01'), Synset('texas.n.01'), Synset('twin.n.03'), Synset('utah.n.01'), Synset('vermont.n.01'), Synset('virginia.n.01'), Synset('washington.n.02'), Synset('west.n.03'), Synset('west_virginia.n.01'), Synset('wisconsin.n.02'), Synset('wyoming.n.01'), Synset('yosemite.n.01'), Synset('yukon.n.01')]]
+Holonym Tags are :[[Synset('north_america.n.01')]]
+
+Token is : economy
+Tags are : ['NOUN', 'dobj', 'economy', 'NN']
+Hypernym Tags are :[[Synset('system.n.02')], [Synset('efficiency.n.02')], [Synset('frugality.n.01')], [Synset('action.n.01')]]
+Hyponym Tags are :[[Synset('industrialism.n.01'), Synset('market_economy.n.01'), Synset('mixed_economy.n.01'), Synset('non-market_economy.n.01'), Synset('state_capitalism.n.01'), Synset('state_socialism.n.01')], [Synset('economy_of_scale.n.01'), Synset('retrenchment.n.02')]]
+Synonym and Antonym Tags are :({'saving', 'economy', 'economic_system', 'thriftiness'}, set())
+Meronyms Tags are :[[Synset('black_economy.n.01'), Synset('sector.n.02')]]
+Holonym Tags are :[]
+
+Token is : .
+Tags are : ['PUNCT', 'punct', '.', '.']
+Hypernym Tags are :[]
+Hyponym Tags are :[]
+Synonym and Antonym Tags are :(set(), set())
+Meronyms Tags are :[]
+Holonym Tags are :[]
+
+
+

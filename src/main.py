@@ -1,64 +1,45 @@
-import nltk
-import corenlp
-import spacy
-import os
-from spacy.lang.en import English
-from spacy.pipeline import DependencyParser
-from spacy.tokenizer import Tokenizer
-from nltk.corpus import wordnet as wn
+import sys, os
+import features, mlearning
+import pysolr
+import urllib
+import json
 
-
-def sentences_from_corpus(directory):
-    sentences_in_corpus = []
-    directoryFiles = os.listdir(directory)
-    for file in directoryFiles:
-        fileRead = open(directory + "/" + file, "r", encoding="utf8")
+def main():
+    #read input file from command line
+    if len(sys.argv) != 2:
+        print("Please give input text file with questions as input in command line")
+    elif len(sys.argv) == 2:
+        inputFilePath = sys.argv[1]
+        questions = []
+        fileRead = open(inputFilePath, "r", encoding="latin-1")
         fileText = fileRead.read()
         sentences = fileText.split("\n")
         for each_sentence in sentences:
-            if len(each_sentence) > 0:
-                sentences_in_corpus.append(each_sentence)
-    return sentences_in_corpus
+            questions.append(each_sentence.strip())
 
 
-def tokenize(sentences_in_corpus):
-    nlp = spacy.load('en_core_web_sm')
-    for each_sentence in sentences_in_corpus:
-        doc = nlp(each_sentence)
-        for token in doc:
-            print(token.text, token.pos_, token.dep_, token.lemma_, token.tag_)
-        for ent in doc.ents:
-            print(ent.text, ent.label_)
+        # TASK 1 commented as it takes lot of time
+        features.corpusFeatures()
 
 
-def features_from_wordnet(sentences_in_corpus):
-    for each_sentence in sentences_in_corpus:
-        doc = each_sentence.split(" ")
-        for token in doc:
-            for ss in wn.synsets(token):
-                print(ss)
-                print(ss, ss.hypernyms())
-                print(ss, ss.hyponyms())
-                synonyms = []
-                antonyms = []
-                for l in ss.lemmas():
-                    synonyms.append(l.name())
-                    if l.antonyms():
-                        antonyms.append(l.antonyms()[0].name())
-                print(synonyms)
-                print(antonyms)
-                print(ss, ss.part_meronyms())
-                print(ss, ss.part_holonyms())
+        # TASK 2
+        solr = pysolr.Solr('http://localhost:8983/solr/project')
+        directory = "WikipediaArticles"
+        directoryFiles = os.listdir(directory)
+        for file in directoryFiles:
+            fileRead = open(directory + "/" + file, "r", encoding="ISO-8859-1")
+            fileText = fileRead.read()
+            sentences = fileText.split("\n")
+            for each_sentence in sentences:
+                doc = features.tokenize(each_sentence)
+                entity_tags = features.entity(doc)
+                if len(each_sentence) > 0:
+                    solr.add([{"id" : file, "sentence" : each_sentence, "entity" : entity_tags}])
+            break
 
 
-def main():
-    directory = "WikipediaArticles"
-    # get all sentences from corpus
-    sentences_in_corpus = sentences_from_corpus(directory)
-    # tokenize, lemmatize and dependency parsing
-    tokenize(sentences_in_corpus)
-    # get all features using wordnet
-    features_from_wordnet(sentences_in_corpus)
+    else:
+        print("Command incorrect. Please give correct input the program")
 
 
 if __name__ == '__main__':
