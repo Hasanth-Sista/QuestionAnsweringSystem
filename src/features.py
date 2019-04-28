@@ -122,7 +122,7 @@ def corpusFeatures():
             fileOpen.write(str(entity_tags))
             fileOpen.write("\n\n\n")
 
-            corpus_features[file].append(each_sentence, get_entity(doc))
+            # corpus_features[file].append(each_sentence, get_entity(doc))
 
             for token in doc:
                 fileOpen.write("\nToken is : "+str(token.text)+"\n")
