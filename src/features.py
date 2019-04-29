@@ -6,8 +6,13 @@ from nltk.corpus import wordnet as wn
 def sentences_from_corpus(directory, file):
     sentences_in_file = []
     fileRead = open(directory + "/" + file, "r", encoding="utf8")
-    fileText = fileRead.read()
-    sentences = fileText.split("\n")
+    # fileText = fileRead.read()
+    # fileRead = open(inputFilePath, "r", encoding="latin-1")
+    # fileText = fileRead.read()
+    nlp1 = spacy.load('en_core_web_lg')
+    doc1 = nlp1(fileRead.read())
+    sentences = list(doc1.sents)
+    # sentences = fileText.split("\n")
     for each_sentence in sentences:
         if len(each_sentence) > 0:
             sentences_in_file.append(each_sentence)
@@ -104,7 +109,7 @@ def holonyms(token):
 
 
 def corpusFeatures():
-    directory = "WikipediaArticles"
+    directory = "..\\WikipediaArticles"
     directoryFiles = os.listdir(directory)
     corpus_features = dict()
     for file in directoryFiles:
