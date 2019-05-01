@@ -24,12 +24,11 @@ def main():
 
         cp = corpus()
         # TASK 1 commented as it takes lot of time
-        #features.corpusFeatures()
-
+        # cp.corpusFeatures()
 
         # TASK 2
         solr = pysolr.Solr('http://localhost:8983/solr/projectNLP')
-        directory = "..\\WikipediaArticles"
+        directory = "WikipediaArticles"
         directoryFiles = os.listdir(directory)
         counter = 1
         for file in directoryFiles:
@@ -40,22 +39,19 @@ def main():
             sentences = list(doc.sents)
             # print(sentences)
             for each_sentence in sentences:
-                counter=counter+1
                 # print(each_sentence)
                 doc = cp.tokenize(str(each_sentence))
                 entity_tags = cp.entity(doc)
                 # print(len(each_sentence))
                 if len(each_sentence) > 0:
                     solr.add([{"id" : counter, "title" : file, "sentence" : each_sentence, "entity" : entity_tags}],commit=True)
+                    counter = counter + 1
                     # jsonFile.append([{"id" : file, "sentence" : each_sentence, "entity" : entity_tags}])
                     # with open('jsonFile.json', 'a') as outfile:  
                     #     json.dump({"id" : file, "sentence" : str(each_sentence), "entity" : entity_tags}, outfile)
                     #     outfile.write(",")
-                    
 
             # break
-
-
     else:
         print("Command incorrect. Please give correct input the program")
 

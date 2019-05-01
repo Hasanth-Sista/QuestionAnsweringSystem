@@ -8,9 +8,9 @@ class corpus:
         nlp = spacy.load('en_core_web_lg')
         self.nlp = nlp
 
-    def sentences_from_corpus(self,directory, file):
+    def sentences_from_corpus(self, directory, file):
         sentences_in_file = []
-        fileRead = open(directory + "/" + file, "r", encoding="utf8")
+        fileRead = open(directory + "/" + file, "r", encoding="latin-1")
         # fileText = fileRead.read()
         # fileRead = open(inputFilePath, "r", encoding="latin-1")
         # fileText = fileRead.read()
@@ -26,7 +26,7 @@ class corpus:
 
     def tokenize(self,sentence):
         # nlp = spacy.load('en_core_web_lg')
-        doc = self.nlp(sentence)
+        doc = self.nlp(str(sentence))
         return doc
 
 
@@ -114,20 +114,20 @@ class corpus:
 
 
     def corpusFeatures(self):
-        directory = "..\\WikipediaArticles"
+        directory = "WikipediaArticles"
         directoryFiles = os.listdir(directory)
         corpus_features = dict()
         for file in directoryFiles:
-            fileOpen = open("Task1/" + file, "w+", encoding="utf8")
-            sentences_in_file = sentences_from_corpus(directory, file)
+            fileOpen = open("Task1/" + file, "w+", encoding="utf-8")
+            sentences_in_file = self.sentences_from_corpus(directory, file)
             fileOpen.write("Document is :   " + file +"\n\n\n")
             for each_sentence in sentences_in_file:
-                doc = tokenize(each_sentence)
+                doc = self.tokenize(each_sentence)
                 fileOpen.write("Sentence is :  \n")
                 fileOpen.write(str(doc))
                 fileOpen.write("\n\n\n")
 
-                entity_tags = entity(doc)
+                entity_tags = self.entity(doc)
                 fileOpen.write("Entities are :  FORMAT: ent.text, ent.label_ \n")
                 fileOpen.write(str(entity_tags))
                 fileOpen.write("\n\n\n")
@@ -136,29 +136,28 @@ class corpus:
 
                 for token in doc:
                     fileOpen.write("\nToken is : "+str(token.text)+"\n")
-                    doc_tags = tags(token)
+                    doc_tags = self.tags(token)
                     fileOpen.write("Tags are : ")
                     fileOpen.write(str(doc_tags)+"\n")
 
-                    hypernym_tags = hypernyms(token)
+                    hypernym_tags = self.hypernyms(token)
                     fileOpen.write("Hypernym Tags are :")
                     fileOpen.write(str(hypernym_tags)+"\n")
 
-                    hyponym_tags = hyponyms(token)
+                    hyponym_tags = self.hyponyms(token)
                     fileOpen.write("Hyponym Tags are :")
                     fileOpen.write(str(hyponym_tags)+"\n")
 
-                    synonyms_antonyms_tags = synonyms_antonyms(token)
+                    synonyms_antonyms_tags = self.synonyms_antonyms(token)
                     fileOpen.write("Synonym and Antonym Tags are :")
                     fileOpen.write(str(synonyms_antonyms_tags)+"\n")
 
-                    meronym_tags = meronyms(token)
+                    meronym_tags = self.meronyms(token)
                     fileOpen.write("Meronyms Tags are :")
                     fileOpen.write(str(meronym_tags)+"\n")
 
-                    holonym_tags = holonyms(token)
+                    holonym_tags = self.holonyms(token)
                     fileOpen.write("Holonym Tags are :")
                     fileOpen.write(str(holonym_tags)+"\n")
                 fileOpen.write("\n\n\n")
-            break
         return corpus_features
