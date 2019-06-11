@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daccaa45-9e20-491c-971d-a32db550942b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/AT_T.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/AT_T.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task1/AbrahamLincoln.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/AbrahamLincoln.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/Amazon_com.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Amazon_com.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/AppleInc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/AppleInc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/Berkshire_Hathaway.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Berkshire_Hathaway.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/China.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/China.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/CitiGroup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/CitiGroup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/Dallas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Dallas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/ElonMusk.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/ElonMusk.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/Europe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/Europe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/ExxonMobil.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/ExxonMobil.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/GeorgeWashington.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/GeorgeWashington.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/IBM.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/IBM.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/India.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/India.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/JPMorganChase.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/JPMorganChase.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/LaurenePowellJobs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/LaurenePowellJobs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/MahatmaGandhi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/MahatmaGandhi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1/MelindaGates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task1/MelindaGates.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/features.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,31 +39,32 @@
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
           <entry key="py" value="17" />
-          <entry key="txt" value="53" />
+          <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="PLAIN_TEXT" value="59" />
           <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="21" />
-          <entry key="py" value="9843" />
+          <entry key="py" value="9952" />
           <entry key="txt" value="27" />
         </counts>
       </usages-collector>
@@ -52,24 +72,18 @@
         <counts>
           <entry key="Markdown" value="21" />
           <entry key="PLAIN_TEXT" value="27" />
-          <entry key="Python" value="9843" />
+          <entry key="Python" value="9952" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1556427736532" expanded="true" signature="82:83" ph="..." />
-                <marker date="1556427736532" expanded="true" signature="94:99" ph="..." />
-                <marker date="1556427736532" expanded="true" signature="94:1421" ph="..." />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -79,14 +93,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#59#0" expanded="true" />
-                <marker date="1556407559885" expanded="true" signature="337:377" ph="..." />
-                <marker date="1556407559885" expanded="true" signature="412:417" ph="..." />
-                <marker date="1556407559885" expanded="true" signature="412:587" ph="..." />
-                <marker date="1556407559885" expanded="true" signature="610:615" ph="..." />
-                <marker date="1556407559885" expanded="true" signature="610:644" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -100,14 +106,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/features.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1802">
-              <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+            <state relative-caret-position="119">
+              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
-                <marker date="1556432509072" expanded="true" signature="1202:1205" ph="..." />
               </folding>
             </state>
           </provider>
@@ -138,8 +143,8 @@
         <option value="$PROJECT_DIR$/WikipediaArticles/AbrahamLincoln.txt" />
         <option value="$PROJECT_DIR$/src/mlearning.py" />
         <option value="$PROJECT_DIR$/src/Question.py" />
-        <option value="$PROJECT_DIR$/src/main.py" />
         <option value="$PROJECT_DIR$/src/features.py" />
+        <option value="$PROJECT_DIR$/src/main.py" />
       </list>
     </option>
   </component>
@@ -150,9 +155,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="958" />
-    <option name="y" value="81" />
-    <option name="width" value="947" />
+    <option name="x" value="13" />
+    <option name="y" value="75" />
+    <option name="width" value="948" />
     <option name="height" value="879" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -174,11 +179,6 @@
               <item name="QuestionAnsweringSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="QuestionAnsweringSystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Task1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -241,9 +241,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30040485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30526316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -256,7 +257,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49959514" visible="true" weight="0.4430605" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49959514" visible="true" weight="0.32384342" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50040483" side_tool="true" weight="0.47153026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -360,13 +361,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task1/AbrahamLincoln.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11645">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WikipediaArticles/AbrahamLincoln.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -385,38 +379,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NLP.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1/MelindaGates.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1/India.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1/AbrahamLincoln.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/features.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
           <folding>
-            <element signature="e#0#59#0" expanded="true" />
-            <marker date="1556407559885" expanded="true" signature="337:377" ph="..." />
-            <marker date="1556407559885" expanded="true" signature="412:417" ph="..." />
-            <marker date="1556407559885" expanded="true" signature="412:587" ph="..." />
-            <marker date="1556407559885" expanded="true" signature="610:615" ph="..." />
-            <marker date="1556407559885" expanded="true" signature="610:644" ph="..." />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WikipediaArticles/Washington_State.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="320" column="56" selection-start-line="320" selection-start-column="56" selection-end-line="320" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1556427736532" expanded="true" signature="82:83" ph="..." />
-            <marker date="1556427736532" expanded="true" signature="94:99" ph="..." />
-            <marker date="1556427736532" expanded="true" signature="94:1421" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/features.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1802">
-          <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-            <marker date="1556432509072" expanded="true" signature="1202:1205" ph="..." />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

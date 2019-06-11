@@ -26,12 +26,20 @@ def main():
 
         cp = corpus()
         # TASK 1 commented as it takes lot of time
+<<<<<<< HEAD
         cp.corpusFeatures()
 
 
         # TASK 2
         solr = pysolr.Solr('http://localhost:8983/solr/project_NLP')
         directory = "..\\WikipediaArticles"
+=======
+        # cp.corpusFeatures()
+
+        # TASK 2
+        solr = pysolr.Solr('http://localhost:8983/solr/projectNLP')
+        directory = "WikipediaArticles"
+>>>>>>> 853511a0bb889a8d258c770aa99a9078f003763a
         directoryFiles = os.listdir(directory)
         counter = 1
         for file in directoryFiles:
@@ -52,6 +60,7 @@ def main():
             sentences = sent_tokenize(fileRead.read())
             solr_json_doc = []
             for each_sentence in sentences:
+<<<<<<< HEAD
                 counter=counter+1
                 each = nlp(each_sentence)
                 # each = each_sentence
@@ -84,15 +93,25 @@ def main():
                 # print(len(each_sentence))
                 # if len(each_sentence) > 0:
                 #     solr.add([{"id" : counter, "title" : file, "sentence" : each_sentence, "entity" : entity_tags}],commit=True)
+=======
+                # print(each_sentence)
+                doc = cp.tokenize(str(each_sentence))
+                entity_tags = cp.entity(doc)
+                # print(len(each_sentence))
+                if len(each_sentence) > 0:
+                    solr.add([{"id" : counter, "title" : file, "sentence" : each_sentence, "entity" : entity_tags}],commit=True)
+                    counter = counter + 1
+>>>>>>> 853511a0bb889a8d258c770aa99a9078f003763a
                     # jsonFile.append([{"id" : file, "sentence" : each_sentence, "entity" : entity_tags}])
                     # with open('jsonFile.json', 'a') as outfile:  
                     #     json.dump({"id" : file, "sentence" : str(each_sentence), "entity" : entity_tags}, outfile)
                     #     outfile.write(",")
+<<<<<<< HEAD
             solr.add(solr_json_doc)       
+=======
+>>>>>>> 853511a0bb889a8d258c770aa99a9078f003763a
 
             # break
-
-
     else:
         print("Command incorrect. Please give correct input the program")
 

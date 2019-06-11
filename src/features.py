@@ -8,9 +8,9 @@ class corpus:
         nlp = spacy.load('en_core_web_lg')
         self.nlp = nlp
 
-    def sentences_from_corpus(self,directory, file):
+    def sentences_from_corpus(self, directory, file):
         sentences_in_file = []
-        fileRead = open(directory + "/" + file, "r", encoding="utf8")
+        fileRead = open(directory + "/" + file, "r", encoding="latin-1")
         # fileText = fileRead.read()
         # fileRead = open(inputFilePath, "r", encoding="latin-1")
         # fileText = fileRead.read()
@@ -114,11 +114,15 @@ class corpus:
 
 
     def corpusFeatures(self):
-        directory = "..\\WikipediaArticles"
+        directory = "WikipediaArticles"
         directoryFiles = os.listdir(directory)
         corpus_features = dict()
         for file in directoryFiles:
+<<<<<<< HEAD
             fileOpen = open("..\\Task1/" + file, "w+", encoding="utf8")
+=======
+            fileOpen = open("Task1/" + file, "w+", encoding="utf-8")
+>>>>>>> 853511a0bb889a8d258c770aa99a9078f003763a
             sentences_in_file = self.sentences_from_corpus(directory, file)
             fileOpen.write("Document is :   " + file +"\n\n\n")
             for each_sentence in sentences_in_file:
@@ -136,7 +140,10 @@ class corpus:
 
                 for token in doc:
                     fileOpen.write("\nToken is : "+str(token.text)+"\n")
+<<<<<<< HEAD
                     
+=======
+>>>>>>> 853511a0bb889a8d258c770aa99a9078f003763a
                     doc_tags = self.tags(token)
                     fileOpen.write("Tags are : ")
                     fileOpen.write(str(doc_tags)+"\n")
