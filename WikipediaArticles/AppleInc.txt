@@ -7,8 +7,6 @@ Apple was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976 t
 As the market for personal computers expanded and evolved through the 1990s, Apple lost market share to the lower-priced duopoly of Microsoft Windows on Intel PC clones. The board recruited CEO Gil Amelio to what would be a 500-day charge for him to rehabilitate the financially troubled company—reshaping it with layoffs, executive restructuring, and product focus. In 1997, he led Apple to buy NeXT, solving the desperately failed operating system strategy and bringing Jobs back. Jobs pensively regained leadership status, becoming CEO in 2000. Apple swiftly returned to profitability under the revitalizing Think different campaign, as he rebuilt Apple's status by launching the iMac in 1998, opening the retail chain of Apple Stores in 2001, and acquiring numerous companies to broaden the software portfolio. In January 2007, Jobs renamed the company Apple Inc., reflecting its shifted focus toward consumer electronics, and launched the iPhone to great critical acclaim and financial success. In August 2011, Jobs resigned as CEO due to health complications, and Tim Cook became the new CEO. Two months later, Jobs died, marking the end of an era for the company.
 
 Apple is well known for its size and revenues. Its worldwide annual revenue totaled $265 billion for the 2018 fiscal year. Apple is the world's largest information technology company by revenue and the world's third-largest mobile phone manufacturer after Samsung and Huawei. In August 2018, Apple became the first public U.S. company to be valued at over US$1 trillion. The company employs 123,000 full-time employees and maintains 504 retail stores in 24 countries as of 2018. It operates the iTunes Store, which is the world's largest music retailer. As of January 2018, more than 1.3 billion Apple products are actively in use worldwide. The company also has a high level of brand loyalty and is ranked as the world's most valuable brand. However, Apple receives significant criticism regarding the labor practices of its contractors, its environmental practices and unethical business practices, including anti-competitive behavior, as well as the origins of source materials.
-History
-1976–1984: Founding and incorporation
 
 Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne. The company's first product is the Apple I, a computer designed and hand-built entirely by Wozniak, and first shown to the public at the Homebrew Computer Club. Apple I was sold as a motherboard (with CPU, RAM, and basic textual-video chips)—a base kit concept which would now not be marketed as a complete personal computer. The Apple I went on sale in July 1976 and was market-priced at $666.66 ($2,935 in 2018 dollars, adjusted for inflation).
 
@@ -21,7 +19,6 @@ By the end of the 1970s, Apple had a staff of computer designers and a productio
 Jobs was immediately convinced that all future computers would use a graphical user interface (GUI), and development of a GUI began for the Apple Lisa. In 1982, however, he was pushed from the Lisa team due to infighting. Jobs then took over Wozniak's and Raskin's low-cost-computer project, the Macintosh, and redefined it as a graphical system cheaper and faster than Lisa. In 1983, Lisa became the first personal computer sold to the public with a GUI, but was a commercial failure due to its high price and limited software titles, so in 1985 it would be repurposed as the high end Macintosh and discontinued in its second year.
 
 On December 12, 1980, Apple went public at $22 per share, generating more capital than any IPO since Ford Motor Company in 1956, and immediately creating 300 millionaires.
-1984–1991: Success with Macintosh
 
 In 1984, Apple launched the Macintosh, the first personal computer to be sold without a programming language. Its debut was signified by "1984", a $1.5 million television advertisement directed by Ridley Scott that aired during the third quarter of Super Bowl XVIII on January 22, 1984. This is now hailed as a watershed event for Apple's success and was called a "masterpiece" by CNN and one of the greatest TV advertisements of all time by TV Guide.
 
@@ -36,7 +33,6 @@ This policy began to backfire in the last years of the decade as new desktop pub
 In 1991, Apple introduced the PowerBook, replacing the "luggable" Macintosh Portable with a design that set the current shape for almost all modern laptops. The same year, Apple introduced System 7, a major upgrade to the operating system which added color to the interface and introduced new networking capabilities. It remained the architectural basis for the Classic Mac OS. The success of the PowerBook and other products brought increasing revenue. For some time, Apple was doing incredibly well, introducing fresh new products and generating increasing profits in the process. The magazine MacAddict named the period between 1989 and 1991 as the "first golden age" of the Macintosh.
 
 Apple believed the Apple II series was too expensive to produce and took away sales from the low-end Macintosh. In the 1990s, Apple released the Macintosh LC, and began efforts to promote that computer by advising developer technical support staff to recommend developing applications for Macintosh rather than Apple II, and authorizing salespersons to direct consumers towards Macintosh and away from Apple II. The Apple IIe was discontinued in 1993.
-1991–1997: Decline and restructuring
 
 The success of Apple's lower-cost consumer models, especially the LC, also led to cannibalization of their higher priced machines. To address this, management introduced several new brands, selling largely identical machines at different price points aimed at different markets. These were the high-end Quadra, the mid-range Centris line, and the ill-fated Performa series. This led to significant market confusion, as customers did not understand the difference between models.
 
@@ -49,7 +45,6 @@ By the late 1980s, Apple was developing alternative platforms to System 6, such 
 In 1994, Apple, IBM, and Motorola formed the AIM alliance with the goal of creating a new computing platform (the PowerPC Reference Platform), which would use IBM and Motorola hardware coupled with Apple software. The AIM alliance hoped that PReP's performance and Apple's software would leave the PC far behind and thus counter Microsoft's monopoly. The same year, Apple introduced the Power Macintosh, the first of many Apple computers to use Motorola's PowerPC processor.
 
 In 1996, Spindler was replaced by Gil Amelio as CEO. Hired for his reputation as a corporate rehabilitator, Amelio made deep changes, including extensive layoffs and cost-cutting. After numerous failed attempts to modernize Mac OS, first with the Pink project from 1988 and later with Copland from 1994, Apple in 1997 purchased NeXT for its NeXTSTEP operating system and to bring Steve Jobs back.
-1997–2007: Return to profitability
 
 At the January 1997 Macworld Expo, Jobs announced that Apple would join Microsoft to release new versions of Microsoft Office for the Macintosh, and that Microsoft had made a $150 million investment in non-voting Apple stock. On November 10, 1997, Apple introduced the Apple Store website, which was tied to a new build-to-order manufacturing strategy.
 
@@ -64,14 +59,12 @@ In 2002, Apple purchased Nothing Real for their advanced digital compositing app
 Mac OS X, based on NeXT's OPENSTEP and BSD Unix, was released on March 24, 2001, after several years of development. Aimed at consumers and professionals alike, Mac OS X aimed to combine the stability, reliability, and security of Unix with the ease of use afforded by an overhauled user interface. To aid users in migrating from Mac OS 9, the new operating system allowed the use of OS 9 applications within Mac OS X via the Classic Environment.
 
 On May 19, 2001, Apple opened its first official eponymous retail stores in Virginia and California. On October 23 of the same year, Apple debuted the iPod portable digital audio player. The product, which was first sold on November 10, 2001, was phenomenally successful with over 100 million units sold within six years. In 2003, Apple's iTunes Store was introduced. The service offered online music downloads for $0.99 a song and integration with the iPod. The iTunes Store quickly became the market leader in online music services, with over five billion downloads by June 19, 2008. Two years later, the iTunes Store was the world's largest music retailer.
-Intel transition and financial stability
 
 At the Worldwide Developers Conference keynote address on June 6, 2005, Jobs announced that Apple would begin producing Intel-based Mac computers in 2006. On January 10, 2006, the new MacBook Pro and iMac became the first Apple computers to use Intel's Core Duo CPU. By August 7, 2006, Apple made the transition to Intel chips for the entire Mac product line—over one year sooner than announced. The Power Mac, iBook, and PowerBook brands were retired during the transition; the Mac Pro, MacBook, and MacBook Pro became their respective successors. On April 29, 2009, The Wall Street Journal reported that Apple was building its own team of engineers to design microchips. Apple also introduced Boot Camp in 2006 to help users install Windows XP or Windows Vista on their Intel Macs alongside Mac OS X.
 
 Apple's success during this period was evident in its stock price. Between early 2003 and 2006, the price of Apple's stock increased more than tenfold, from around $6 per share (split-adjusted) to over $80. In January 2006, Apple's market cap surpassed that of Dell. Nine years prior, Dell's CEO Michael Dell had said that if he ran Apple he would "shut it down and give the money back to the shareholders." Although Apple's market share in computers had grown, it remained far behind its competitor Microsoft Windows, accounting for about 8% of desktops and laptops in the US.
 
 Since 2001, Apple's design team has progressively abandoned the use of translucent colored plastics first used in the iMac G3. This design change began with the titanium-made PowerBook and was followed by the iBook's white polycarbonate structure and the flat-panel iMac.
-2007–2011: Success with mobile devices
 
 During his keynote speech at the Macworld Expo on January 9, 2007, Jobs announced that Apple Computer, Inc. would thereafter be known as "Apple Inc.", because the company had shifted its emphasis from computers to consumer electronics. This event also saw the announcement of the iPhone and the Apple TV. The company sold 270,000 iPhone units during the first 30 hours of sales, and the device was called "a game changer for the industry". Apple would achieve widespread success with its iPhone, iPod Touch and iPad products, which introduced innovations in mobile phones, portable music players and personal computers respectively. Furthermore, by early 2007, 800,000 Final Cut Pro users were registered.
 
@@ -98,7 +91,6 @@ On January 17, 2011, Jobs announced in an internal Apple memo that he would take
 This would be the last product launch Jobs would attend before his death. It has been argued that Apple has achieved such efficiency in its supply chain that the company operates as a monopsony (one buyer with many sellers) and can dictate terms to its suppliers. In July 2011, due to the American debt-ceiling crisis, Apple's financial reserves were briefly larger than those of the U.S. Government.
 
 On August 24, 2011, Jobs resigned his position as CEO of Apple. He was replaced by Cook and Jobs became Apple's chairman. Prior to this, Apple did not have a chairman and instead had two co-lead directors, Andrea Jung and Arthur D. Levinson, who continued with those titles until Levinson became chairman of the board in November.
-2011–present: Post-Steve Jobs era; Tim Cook leadership
 
 On October 5, 2011, Steve Jobs died, marking the end of an era for Apple. The first major product announcement by Apple following Jobs's passing occurred on January 19, 2012, when Apple's Phil Schiller introduced iBooks Textbooks for iOS and iBook Author for Mac OS X in New York City. Jobs had stated in his biography that he wanted to reinvent the textbook industry and education.
 
@@ -176,7 +168,6 @@ On September 7, 2016, Apple introduced the iPhone 7 and the iPhone 7 Plus, which
 On September 12, 2017, Apple introduced the iPhone 8 and iPhone 8 Plus, standing as evolutionary updates to its previous phones with a faster processor, improved display technology, upgraded camera systems and wireless charging. The company also announced iPhone X, which radically changes the hardware of the iPhone lineup, removing the home button in favor of facial recognition technology and featuring a near bezel-less design along with wireless charging.
 
 On September 12, 2018, Apple introduced the iPhone XS, iPhone XS Max and iPhone XR. The iPhone XS and iPhone XS Max features Super Retina displays, a faster and improved dual camera system that offers breakthrough photo and video features, the first 7-nanometer chip in a smartphone — the A12 Bionic chip with next-generation Neural Engine — faster Face ID, wider stereo sound and introduces Dual SIM to iPhone. The iPhone XR comes in an all-screen glass and aluminium design with the most advanced LCD in a smartphone featuring a 6.1-inch Liquid Retina display, A12 Bionic chip with next-generation Neural Engine, the TrueDepth camera system, Face ID and an advanced camera system that creates dramatic portraits using a single camera lens.
-iPad
 
 On January 27, 2010, Apple introduced their much-anticipated media tablet, the iPad. It offers multi-touch interaction with multimedia formats including newspapers, e-books, photos, videos, music, word processing documents, video games, and most existing iPhone apps using a 9.7-inch screen. It also includes a mobile version of Safari for web browsing, as well as access to the App Store, iTunes Library, iBookstore, Contacts, and Notes. Content is downloadable via Wi-Fi and optional 3G service or synced through the user's computer. AT&T was initially the sole U.S. provider of 3G wireless access for the iPad.
 
@@ -193,7 +184,6 @@ The iPad Air 2 was unveiled on October 16, 2014. It added better graphics and ce
 Since its launch, iPad users have downloaded over three billion apps. The total number of App Store downloads, as of June 2015, is over 100 billion.
 
 On September 9, 2015, Apple announced the iPad Pro, an iPad with a 12.9-inch display that supports two new accessories, the Smart Keyboard and Apple Pencil. An updated IPad Mini 4 was announced at the same time. A 9.7-inch iPad Pro was announced on March 21, 2016. On June 5, 2017, Apple announced a new iPad Pro with a 10.5-inch display to replace the 9.7 inch model and an updated 12.9-inch model.
-Apple Watch
 
 The original Apple Watch smartwatch was announced by Tim Cook on September 9, 2014, being introduced as a product with health and fitness-tracking. It was released on April 24, 2015.
 
@@ -202,7 +192,6 @@ The second generation of Apple Watch, Apple Watch Series 2, was released in Sept
 On September 12, 2017, Apple introduced the Apple Watch Series 3 featuring LTE cellular connectivity, giving the wearable independence from an iPhone except for the setup process.
 
 On September 12, 2018, Apple introduced the Apple Watch Series 4, featuring new display, electrocardiogram and fall detection.
-Apple TV
 
 At the 2007 Macworld conference, Jobs demonstrated the Apple TV (previously known as the iTV), a set-top video device intended to bridge the sale of content from iTunes with high-definition televisions. The device links up to a user's TV and syncs, either via Wi-Fi or a wired network, with one computer's iTunes library and streams content from an additional four. The Apple TV originally incorporated a 40 GB hard drive for storage, included outputs for HDMI and component video, and played video at a maximum resolution of 720p. On May 30, 2007, a 160 GB hard disk drive was released alongside the existing 40 GB model. A software update released on January 15, 2008, allowed media to be purchased directly from the Apple TV.
 
@@ -213,10 +202,8 @@ It has HDMI out as the only video output source. Features include access to the 
 At the September 9, 2015, event, Apple unveiled an overhauled Apple TV, which now runs a variant of macOS, called tvOS, and contains 32GB or 64 GB of NAND Flash to store games, programs, and to cache the current media playing. The release also coincided with the opening of a separate Apple TV App Store and a new Siri Remote with a glass touchpad, gyroscope, and microphone.
 
 At the September 12, 2017 event, Apple released a new 4K Apple TV with the same form factor as the 4th Generation model. The 4K model is powered by the A10X SoC designed in-house that also powers their second-generation iPad Pro. The 4K model also has support for high dynamic range.
-HomePod
 
 Apple's first smart speaker, the HomePod was released on February 9, 2018 after being delayed from its initial December 2017 release. It also features 7 tweeters in the base, a four-inch woofer in the top, and six microphones for voice control and acoustic optimization On September 12, 2018, Apple announced that HomePod is adding new features—search by lyrics, set multiple timers, make and receive phone calls, Find My iPhone, Siri Shortcuts—and Siri languages.
-Software
 
 Apple develops its own operating systems to run on its devices, including macOS for Mac personal computers, iOS for its iPhone, iPad and iPod Touch smartphones and tablets, watchOS for its Apple Watch smartwatches, and tvOS for its Apple TV digital media player.
 
@@ -225,14 +212,10 @@ For iOS and macOS, Apple also develops its own software titles, including Pages 
 Apple's range of server software includes the operating system macOS Server; Apple Remote Desktop, a remote systems management application; and Xsan, a storage area network file system.
 
 Apple also offers online services with iCloud, which provides cloud storage and synchronization for a wide range of user data, including documents, photos, music, device backups, and application data, and Apple Music, its music and video streaming service.
-Electric vehicles
 
 According to the Sydney Morning Herald, Apple wants to start producing an electric car with autonomous driving as soon as 2020. Apple has made efforts to recruit battery development engineers and other electric automobile engineers from A123 Systems, LG Chem, Samsung Electronics, Panasonic, Toshiba, Johnson Controls and Tesla Motors.
-Apple Energy
 
 Apple Energy, LLC is a wholly owned subsidiary of Apple Inc. that sells solar energy. As of June 6, 2016, Apple's solar farms in California and Nevada have been declared to provide 217.9 megawatts of solar generation capacity. In addition to the company's solar energy production, Apple has received regulatory approval to construct a landfill gas energy plant in North Carolina. Apple will use the methane emissions to generate electricity. Apple's North Carolina data center is already powered entirely with energy from renewable sources.
-Corporate identity
-Logo
 
 According to Steve Jobs, the company's name was inspired by his visit to an apple farm while on a fruitarian diet. Jobs thought the name "Apple" was "fun, spirited and not intimidating".
 
@@ -241,20 +224,14 @@ Apple's first logo, designed by Ron Wayne, depicts Sir Isaac Newton sitting unde
 On August 27, 1999 (the year following the introduction of the iMac G3), Apple officially dropped the rainbow scheme and began to use monochromatic logos nearly identical in shape to the previous rainbow incarnation. An Aqua-themed version of the monochrome logo was used from 1998 to 2003, and a glass-themed version was used from 2007 to 2013.
 
 Steve Jobs and Steve Wozniak were Beatles fans, but Apple Inc. had name and logo trademark issues with Apple Corps Ltd., a multimedia company started by the Beatles in 1967. This resulted in a series of lawsuits and tension between the two companies. These issues ended with the settling of their lawsuit in 2007.
-Advertising
 
 Apple's first slogan, "Byte into an Apple", was coined in the late 1970s. From 1997 to 2002, the slogan "Think Different" was used in advertising campaigns, and is still closely associated with Apple. Apple also has slogans for specific product lines — for example, "iThink, therefore iMac" was used in 1998 to promote the iMac, and "Say hello to iPhone" has been used in iPhone advertisements. "Hello" was also used to introduce the original Macintosh, Newton, iMac ("hello (again)"), and iPod.
 
 From the introduction of the Macintosh in 1984, with the 1984 Super Bowl advertisement to the more modern Get a Mac adverts, Apple has been recognized for its efforts towards effective advertising and marketing for its products. However, claims made by later campaigns were criticized, particularly the 2005 Power Mac ads. Apple's product advertisements gained a lot of attention as a result of their eye-popping graphics and catchy tunes. Musicians who benefited from an improved profile as a result of their songs being included on Apple advertisements include Canadian singer Feist with the song "1234" and Yael Naïm with the song "New Soul".
 
 Apple owns a YouTube channel where they release advertisements, tips, and introductions for their devices.
-Brand loyalty
 
-Apple customers gained a reputation for devotion and loyalty early in the company's history. BYTE in 1984 stated that
-
-    There are two kinds of people in the world: people who say Apple isn't just a company, it's a cause; and people who say Apple isn't a cause, it's just a company. Both groups are right. Nature has suspended the principle of noncontradiction where Apple is concerned.
-
-    Apple is more than just a company because its founding has some of the qualities of myth ... Apple is two guys in a garage undertaking the mission of bringing computing power, once reserved for big corporations, to ordinary individuals with ordinary budgets. The company's growth from two guys to a billion-dollar corporation exemplifies the American Dream. Even as a large corporation, Apple plays David to IBM's Goliath, and thus has the sympathetic role in that myth.
+Apple customers gained a reputation for devotion and loyalty early in the company's history. BYTE in 1984 stated that There are two kinds of people in the world: people who say Apple isn't just a company, it's a cause; and people who say Apple isn't a cause, it's just a company. Both groups are right. Nature has suspended the principle of noncontradiction where Apple is concerned. Apple is more than just a company because its founding has some of the qualities of myth ... Apple is two guys in a garage undertaking the mission of bringing computing power, once reserved for big corporations, to ordinary individuals with ordinary budgets. The company's growth from two guys to a billion-dollar corporation exemplifies the American Dream. Even as a large corporation, Apple plays David to IBM's Goliath, and thus has the sympathetic role in that myth.
 
 Apple evangelists were actively engaged by the company at one time, but this was after the phenomenon had already been firmly established. Apple evangelist Guy Kawasaki has called the brand fanaticism "something that was stumbled upon," while Ive explained in 2014 that "People have an incredibly personal relationship" with Apple's products. Apple Store openings and new product releases can draw crowds of hundreds, with some waiting in line as much as a day before the opening. The opening of New York City's Fifth Avenue "Cube" store in 2006 became the setting of a marriage proposal, and had visitors from Europe who flew in for the event. In June 2017, a newlywed couple took their wedding photos inside the then-recently opened Orchard Road Apple Store in Singapore. The high level of brand loyalty has been criticized and ridiculed, applying the epithet "Apple fanboy" and mocking the lengthy lines before a product launch. An internal memo leaked in 2015 suggested the company planned to discourage long lines and direct customers to purchase its products on its website.
 
@@ -262,11 +239,7 @@ Fortune magazine named Apple the most admired company in the United States in 20
 
 The New York Times in 1985 stated that "Apple above all else is a marketing company". John Sculley agreed, telling The Guardian newspaper in 1997 that "People talk about technology, but Apple was a marketing company. It was the marketing company of the decade." Research in 2002 by NetRatings indicate that the average Apple consumer was usually more affluent and better educated than other PC company consumers. The research indicated that this correlation could stem from the fact that on average Apple Inc. products were more expensive than other PC products.
 
-In response to a query about the devotion of loyal Apple consumers, Jonathan Ive responded:
-
-    What people are responding to is much bigger than the object. They are responding to something rare—a group of people who do more than simply make something work, they make the very best products they possibly can. It's a demonstration against thoughtlessness and carelessness.
-
-Home page
+In response to a query about the devotion of loyal Apple consumers, Jonathan Ive responded: What people are responding to is much bigger than the object. They are responding to something rare—a group of people who do more than simply make something work, they make the very best products they possibly can. It's a demonstration against thoughtlessness and carelessness.
 
 The Apple website home page has been used to commemorate, or pay tribute to, milestones and events outside of Apple's product offerings:
 
@@ -287,8 +260,6 @@ The Apple website home page has been used to commemorate, or pay tribute to, mil
     2003: Gregory Hines
     2001: George Harrison
 
-Headquarters
-
 Apple Inc.'s world corporate headquarters are located in the middle of Silicon Valley, at 1–6 Infinite Loop, Cupertino, California. This Apple campus has six buildings that total 850,000 square feet (79,000 m2) and was built in 1993 by Sobrato Development Cos.
 
 Apple has a satellite campus in neighboring Sunnyvale, California, where it houses a testing and research laboratory. AppleInsider claimed in March 2014 that Apple has a top-secret facility for development of the SG5 electric vehicle project codenamed "Titan" under the shell company name SixtyEight Research.
@@ -303,7 +274,6 @@ Apple's headquarters for Europe, the Middle East and Africa (EMEA) are located i
 In February 2015, Apple opened their new 180,000-square-foot headquarters in Herzliya, Israel, designed to accommodate approximately 800 employees. This is Apple's third office located within Israel; the first, also in Herzliya, was obtained as part of the Anobit acquisition, and the other is a research center in Haifa.
 
 In December 2015, Apple bought the 70,000-square-foot manufacturing facility in North San Jose previously used by Maxim Integrated, in an $18.2 million deal.
-Stores
 
 The first Apple Stores were originally opened as two locations in May 2001 by then-CEO Steve Jobs, after years of attempting but failing store-within-a-store concepts. Seeing a need for improved retail presentation of the company's products, he began an effort in 1997 to revamp the retail program to get an improved relationship to consumers, and hired Ron Johnson in 2000. Jobs relaunched Apple's online store in 1997, and opened the first two physical stores in 2001. The media initially speculated that Apple would fail, but its stores were highly successful, bypassing the sales numbers of competing nearby stores and within three years reached US$1 billion in annual sales, becoming the fastest retailer in history to do so. Over the years, Apple has expanded the number of retail locations and its geographical coverage, with 499 stores across 22 countries worldwide as of December 2017. Strong product sales have placed Apple among the top-tier retail stores, with sales over $16 billion globally in 2011.
 
@@ -370,35 +340,29 @@ As of March 29, 2019 the current management of Apple Inc. includes:
     Jeff Williams (chief operating officer (COO))
     Jonathan Ive, KBE (chief design officer)
 
-Litigation
-
 Apple has been a participant in various legal proceedings and claims since it began operation. In particular, Apple is known for and promotes itself as actively and aggressively enforcing its intellectual property interests. Some litigation examples include Apple v. Samsung, Apple v. Microsoft, Motorola Mobility v. Apple Inc., and Apple Corps v. Apple Computer. Apple has also had to defend itself against charges on numerous occasions of violating intellectual property rights. Most have been dismissed in the courts as shell companies known as patent trolls, with no evidence of actual use of patents in question. On December 21, 2016, Nokia announced that in the U.S. and Germany, it has filed a suit against Apple, claiming that the latter's products infringe on Nokia's patents. Most recently, in November 2017, the United States International Trade Commission announced an investigation into allegations of patent infringement in regards to Apple's remote desktop technology; Aqua Connect, a company that builds remote desktop software, has claimed that Apple infringed on two of its patents.
-Privacy stance
 
 Apple has a notable pro-privacy stance, actively making privacy-conscious features and settings part of its conferences, promotional campaigns, and public image. With its iOS 8 mobile operating system in 2014, the company started encryption all contents of iOS devices through users' passcodes, making it impossible for the company to provide customer data to law enforcement requests seeking such information. With the popularity rise of cloud storage solutions, Apple began a technique in 2016 to do deep learning scans for facial data in photos on the user's local device and encrypting the content before uploading it to Apple's iCloud storage system. It also introduced "differential privacy", a way to collect crowdsourced data from many users, while keeping individual users anonymous, in a system that Wired described as "trying to learn as much as possible about a group while learning as little as possible about any individual in it". Users are explicitly asked if they want to participate, and can actively opt-in or opt-out.
 
 However, Apple aids law enforcement in criminal investigations by providing iCloud backups of users' devices, and the company's commitment to privacy has been questioned by its efforts to promote biometric authentication technology in its newer iPhone models, which don't have the same level of constitutional privacy as a passcode in the United States.
-Charitable causes
 
 Apple is a partner of (PRODUCT)RED, a fundraising campaign for AIDS charity. In November 2014, Apple arranged for all App Store revenue in a two-week period to go to the fundraiser, generating more than US$20 million, and in March 2017, it released an iPhone 7 with a red color finish.
 
 Apple contributes financially to fundraisers in times of natural disasters. In November 2012, it donated $2.5 million to the American Red Cross to aid relief efforts after Hurricane Sandy, and in 2017 it donated $5 million to relief efforts for both Hurricane Irma and Hurricane Harvey, as well as for the 2017 Central Mexico earthquake. The company has also used its iTunes platform to encourage donations, including, but not limited to, help the American Red Cross in the aftermath of the 2010 Haiti earthquake, followed by similar procedure in the aftermath of the 2011 Japan earthquake, Typhoon Haiyan in the Philippines in November 2013, and European migrant crisis in September 2015. Apple emphasizes that it does not incur any processing or other fees for iTunes donations, sending 100% of the payments directly to relief efforts, though it also acknowledges that the Red Cross does not receive any personal information on the users donating and that the payments may not be tax deductible.
 
 On April 14, 2016, Apple and the World Wide Fund for Nature (WWF) announced that they have engaged in a partnership to, "help protect life on our planet." Apple released a special page in the iTunes App Store, Apps for Earth. In the arrangement, Apple has committed that through April 24, WWF will receive 100% of the proceeds from the applications participating in the App Store via both the purchases of any paid apps and the In-App Purchases. Apple and WWF's Apps for Earth campaign raised more than $8 million in total proceeds to support WWF's conservation work. WWF announced the results at WWDC 2016 in San Francisco.
-Criticism and controversies
 
 Apple has been criticised for alleged unethical business practices such as anti-competitive behavior, rash litigation, and dubious tax tactics, production methods involving the use of sweatshop labor, customer service issues involving allegedly misleading warranties and insufficient data security, as well as its products' environmental footprint. Critics have claimed that Apple products combine stolen and/or purchased designs that Apple claims are its original creations. Additionally, it has been criticized for its alleged collaboration with the U.S. surveillance program PRISM.
 
 Apple has dealt with a number of issues regarding music over the years, including issues with the European Union regarding iTunes, trouble over updating the Spotify app on Apple devices and collusion with record labels.
 
 Apple has also faced scrutiny for its tax practices, including using a Double Irish Arrangement to reduce the amount of taxes it pays. A 2013 US Senate report claimed that Apple hadn't paid corporate taxes for five years due to its deals with the Irish government. In 2016, the European Union ordered Apple to pay a fine for its actions.
-See also
 
-    Apple media events
-    Pixar
-    EU illegal State aid case against Apple in Ireland
-    Leprechaun economics
-    Corporation tax in the Republic of Ireland
+Apple media events
+Pixar
+EU illegal State aid case against Apple in Ireland
+Leprechaun economics
+Corporation tax in the Republic of Ireland
 
 References
 Bibliography

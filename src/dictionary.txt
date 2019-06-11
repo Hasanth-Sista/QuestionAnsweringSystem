@@ -1,0 +1,94 @@
+Apple Inc.__Apple
+support__alliance
+purchase__buy
+UTD__UT Dallas
+UTD__UT Dallas
+UTD__University of Texas at Dallas
+establish__create
+South America__Latin America
+spread__expand
+share__stock
+Berkshire Hathaway's__Berkshire Hathaway
+headquarters__base
+create__form
+ExxonMobil__Exxon Mobile
+ExxonMobil__Exxon
+Exxon Mobil Corporation__ExxonMobile
+Exxon Mobil Corp__ExxonMobile
+Exxon Mobil__ExxonMobil
+Abraham Thomas Lincoln__Abraham Lincoln
+Abraham__Abraham Lincoln
+Lincoln__Abraham Lincoln
+Abraham__Lincoln
+Thomas Lincoln__Abraham Lincoln
+Thomas__Abraham Lincoln
+Nancy Lincoln__Nancy
+Amazon.com__Amazon
+Bezos__Jeff Bezos
+Wozniak__Steve Wozniak
+Steve__Steve Jobs
+Jobs__Steve Jobs
+Steven Paul Jobs__Steve Jobs
+Ronald__Ronald Wayne
+Ron Wayne__Ronald Wayne
+Wayne__Ronald Wayne
+introduction__introduce
+AT&T Communications__AT&T
+AT&T Inc.__AT&T
+AT&T Corp__AT&T
+Buffett__Warren Buffett
+Warren__Warren Buffett
+Warren Edward Buffett__Warren Buffett
+Berkshire Hathaway Inc.__Berkshire Hathaway
+Berkshire Hathaway Inc__Berkshire Hathaway
+Berkshire__Berkshire Hathaway
+Clayton__Clayton Homes
+"China"__China
+Citigroup Inc.__Citigroup
+Citi__Citigroup
+Elon Reeve Musk__Elon Musk
+Musk__Elon Musk
+International Business Machines Corporation__IBM
+International Business Machines__IBM
+Watson__Thomas J. Watson
+Thomas Watson__Thomas J. Watson
+Republic of India__India
+J.P. Morgan Chase & Co.__JPMorgan Chase
+J.P. Morgan__JPMorgan Chase
+Powell Jobs__Laurene Powell Jobs
+Laurene Powell__Laurene Powell Jobs
+Gandhi__Mohandas Karamchand Gandhi
+Karamchand Uttamchand Gandhi__Karamchand
+Mohandas__Mohandas Karamchand Gandhi
+Melinda Ann Gates DBE__Melinda Gates
+Gates__Melinda Gates
+Melinda Ann French__Melinda Gates
+Melinda__Melinda Gates
+City of New York__New York City
+NYC__New York City
+New York__New York City
+NY__New York City
+Orpah Gail Winfrey__Oprah Winfrey 
+Winfrey__Oprah Winfrey
+Oprah__Oprah Winfrey
+Tesla, Inc.__Tesla
+Tesla Motors__Tesla
+The United States of America__United States of America
+the United States__United States of America
+USA__United States of America
+United States__United States of America
+US__United States of America
+U.S.__United States of America
+The University of Texas at Dallas__UT Dallas
+The University of Texas__UT Dallas
+UTD__UT Dallas
+Walmart Inc.__Walmart
+die__assassinate
+founder__found
+founder__create
+founder__form
+create__founder
+form__founder
+found__founder
+UTD__UT
+UTD__dallas
